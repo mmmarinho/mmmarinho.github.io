@@ -21,13 +21,17 @@ Education & Work experience
 
 Publications
 ======
-Please check my [Google Scholar profile](https://scholar.google.com/citations?user=4yzonSsAAAAJ&hl=pt-BR) or [ResearchGate profile](https://www.researchgate.net/profile/Murilo_Marinho). I always keep them up-to-date.
+Please check my [Google Scholar profile](https://scholar.google.com/citations?user=4yzonSsAAAAJ&hl) or [ResearchGate profile](https://www.researchgate.net/profile/Murilo_Marinho). I always keep them up-to-date.
 
 My pre-prints are almost always available at [arXiv](https://arxiv.org/search/cs?searchtype=author&query=Marinho%2C+M+M).
 
+Reviews
+======
+Please check my [Publons profile](https://publons.com/researcher/1488056/murilo-marques-marinho/) for all my veryfied work as reviewer.
+
 Languages I'm comfortable with
 ======
-Please feel free to contact me in any of the following languages
+Please feel free to contact me at murilo (at) nml.t.u-tokyo.ac.jp any of the following languages
 * Portuguese
 * English
 * Japanese
