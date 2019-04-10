@@ -14,8 +14,6 @@ I have a B.Sc. (2012) in Mechatronics Engineering and M.Sc. (2014) in Electronic
 
 My research interests are mostly in the field of robotics in medical applications. I also have some other works in robot control theory, and image processing.
 
-For my publications, I recommend you check my [Google Scholar profile](https://scholar.google.com/citations) or my [Researchgate profile](https://www.researchgate.net/profile/Murilo_Marinho) which I always keep up to date. 
-
 How to work with me
 ======
 Please take your time checking my publications, my laboratory's homepage, and the videos below. If you are interested in working with me as student or collaborator, just send me an e-mail, I check it quite frequently.
