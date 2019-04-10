@@ -24,14 +24,6 @@ Research grants
 **Main investigator**
 * Grant-in-Aid for Early-Career Scientists, Japan Society for Early Carrer Scientists (2019-2021)
 
-Publications
-======
-Please check my [Google Scholar profile](https://scholar.google.com/citations?user=4yzonSsAAAAJ&hl) or [ResearchGate profile](https://www.researchgate.net/profile/Murilo_Marinho). I always keep them up-to-date.
-
-My pre-prints are almost always available at [arXiv](https://arxiv.org/search/cs?searchtype=author&query=Marinho%2C+M+M).
-
-Eu também tento manter meu [currículo lattes](http://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K4430927A9) devidamente atualizado.
-
 Reviews
 ======
 Please check my [Publons profile](https://publons.com/researcher/1488056/murilo-marques-marinho/) for all my verified work as a reviewer.
