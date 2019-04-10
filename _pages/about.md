@@ -19,3 +19,8 @@ For my publications, I recommend you check my [Google Scholar profile](https://s
 How to work with me
 ======
 Please take your time checking my publications and my laboratory's homepage. If you are interested in working with me as student or collaborator, just send me an e-mail, I check it quite frequently.
+
+
+Videos
+======
+<iframe width="720" height="405" src="https://www.youtube.com/embed/?listType=playlist&list=PLEaoptoGrhsRBXs-nKw2zQbX9GQLHxZhC" frameborder="0" allowfullscreen>
