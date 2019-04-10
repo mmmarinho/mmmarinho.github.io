@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Murilo Marques Marinho, PhD"
+title: "Who am I"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
