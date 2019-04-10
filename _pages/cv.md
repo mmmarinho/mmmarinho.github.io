@@ -15,14 +15,14 @@ Education & Work experience
 * **M.Sc. in Electronics and Automation Engineering, University of Brasilia, 2014**
 * Graduate Research Student in Mechanical Engineering, The University of Tokyo, 2015
 * Graduate Visiting Scholar, Johns Hopkins University, 2017
-* **Ph.D in Mechanical Engineering　（博士・工学）, The University of Tokyo, 2018**
+* **Ph.D in Mechanical Engineering, The University of Tokyo, 2018**
 * Post doctoral researcher, The University of Tokyo, 2018
-* **Assistant Professor（助教）, Department of Mechanical Engineering, The University of Tokyo, 2019**
+* **Assistant Professor, Department of Mechanical Engineering, The University of Tokyo, 2019**
 
 Research grants
 ======
 **Main investigator**
-* Grant-in-Aid for Early-Career Scientists（科研費若手）, Japan Society for Early Carrer Scientists (2019-2021)
+* Grant-in-Aid for Early-Career Scientists, Japan Society for Early Carrer Scientists (2019-2021)
 
 Publications
 ======
