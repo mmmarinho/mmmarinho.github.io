@@ -11,10 +11,10 @@ redirect_from:
 
 Education & Work experience
 ======
-* **B.Sc. in Mechatronics Engineering, University of Brasilia, 2012**
+* **B.Sc. in Mechatronics Engineering, [University of Brasilia](http://www.alunoestrangeiro.unb.br/en/), 2012**
 * **M.Sc. in Electronics and Automation Engineering, University of Brasilia, 2014**
-* Graduate Research Student in Mechanical Engineering, The University of Tokyo, 2015
-* Graduate Visiting Scholar, Johns Hopkins University, 2018
+* Graduate Research Student in Mechanical Engineering, [The University of Tokyo](https://www.u-tokyo.ac.jp/en/index.html), 2015
+* Graduate Visiting Scholar, [Johns Hopkins University](https://www.jhu.edu/), 2018
 * **Ph.D in Mechanical Engineering, The University of Tokyo, 2018**
 * Postdoctoral researcher, The University of Tokyo, 2018
 * **Assistant Professor, Department of Mechanical Engineering, The University of Tokyo, 2019**
