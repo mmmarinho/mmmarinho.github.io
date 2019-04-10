@@ -9,51 +9,18 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+Education & Work experience
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-
-Work experience
-======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* **B.Sc. in Mechatronics Engineering, University of Brasilia, 2012**
+* **M.Sc. in Electronics and Automation Engineering, University of Brasilia, 2014**
+* Graduate Research Student in Mechanical Engineering, The University of Tokyo, 2015
+* Graduate Visiting Scholar, Johns Hopkins University, 2017
+* **Ph.D in Mechanical Engineering, The University of Tokyo, 2018**
+* Post doctoral researcher, The University of Tokyo, 2018
+* **Assistant Professor, Department of Mechanical Engineering, The University of Tokyo, 2019**
 
 Publications
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+Please check my [Google Scholar profile](https://scholar.google.com/citations?user=4yzonSsAAAAJ&hl=pt-BR) or [ResearchGate profile](https://www.researchgate.net/profile/Murilo_Marinho). I always keep them up-to-date.
+
+My pre-prints are almost always available at [arXiv](https://arxiv.org/search/cs?searchtype=author&query=Marinho%2C+M+M).
