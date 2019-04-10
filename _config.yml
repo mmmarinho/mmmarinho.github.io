@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Murilo Marinho, Ph.D."
+title                    : "Murilo Marques Marinho, Ph.D."
 title_separator          : "-"
 name                     : &name "Murilo Marques Marinho"
 description              : &description "Assistant Professor in Robotics"
