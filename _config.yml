@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Murilo Marinho"
+  name             : "Murilo M. Marinho"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "Assistant Professor in Robotics"
   location         : "Tokyo, Japan"
   employer         : The University of Tokyo
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=4yzonSsAAAAJ"
-  email            :
+  email            : "murilo (at) nml.t.u-tokyo.ac.jp"
   researchgate     : "https://www.researchgate.net/profile/Murilo_Marinho"
   uri              :
   bitbucket        :
