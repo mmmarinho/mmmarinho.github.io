@@ -16,7 +16,7 @@ Education & Work experience
 * Graduate Research Student in Mechanical Engineering, The University of Tokyo, 2015
 * Graduate Visiting Scholar, Johns Hopkins University, 2017
 * **Ph.D in Mechanical Engineering, The University of Tokyo, 2018**
-* Post doctoral researcher, The University of Tokyo, 2018
+* Postdoctoral researcher, The University of Tokyo, 2018
 * **Assistant Professor, Department of Mechanical Engineering, The University of Tokyo, 2019**
 
 Research grants
@@ -34,7 +34,7 @@ Eu também tento manter meu [currículo lattes](http://buscatextual.cnpq.br/busc
 
 Reviews
 ======
-Please check my [Publons profile](https://publons.com/researcher/1488056/murilo-marques-marinho/) for all my veryfied work as reviewer.
+Please check my [Publons profile](https://publons.com/researcher/1488056/murilo-marques-marinho/) for all my verified work as a reviewer.
 
 Languages I'm comfortable with
 ======
