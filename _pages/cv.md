@@ -36,7 +36,7 @@ Please check my [Publons profile](https://publons.com/researcher/1488056/murilo-
 
 Languages I'm comfortable with
 ======
-Please feel free to contact me at murilo (at) nml.t.u-tokyo.ac.jp any of the following languages
+Please feel free to contact me at murilo@nml.t.u-tokyo.ac.jp any of the following languages
 * Portuguese
 * English
 * Japanese
