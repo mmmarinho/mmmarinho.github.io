@@ -19,6 +19,11 @@ Education & Work experience
 * Post doctoral researcher, The University of Tokyo, 2018
 * **Assistant Professor, Department of Mechanical Engineering, The University of Tokyo, 2019**
 
+Research grants
+======
+**Main investigator**
+* Grant-in-Aid for Early-Career Scientists, Japan Society for Early Carrer Scientists (2019-2021)
+
 Publications
 ======
 Please check my [Google Scholar profile](https://scholar.google.com/citations?user=4yzonSsAAAAJ&hl) or [ResearchGate profile](https://www.researchgate.net/profile/Murilo_Marinho). I always keep them up-to-date.
