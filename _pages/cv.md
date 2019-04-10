@@ -33,7 +33,7 @@ Scholarships
 Research grants
 ======
 **Main investigator**
-* Grant-in-Aid for Early-Career Scientists, Japan Society for Early Carrer Scientists (2019-2021)
+* Grant-in-Aid for Early-Career Scientists, Japan Society for the Promotion of Science (2019-2021)
 
 Reviews
 ======
