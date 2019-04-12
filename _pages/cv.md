@@ -13,7 +13,7 @@ Education
 ======
 * **B.Sc. in Mechatronics Engineering, University of Brasilia, 2012**
 * **M.Sc. in Electronics and Automation Engineering, University of Brasilia, 2014**
-* **Ph.D in Mechanical Engineering, The University of Tokyo, 2018**
+* **Ph.D. in Mechanical Engineering, The University of Tokyo, 2018**
 
 Research and work experience
 ======
