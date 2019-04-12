@@ -30,6 +30,7 @@ Scholarships and travel grants
 ======
 * Overseas Travel Support, Graduate Program for Mechanical Systems Innovation (GMSI), Japan, 2018
 * Research Student & Ph.D. Scholarship, Japanese Government (文部科学省:MEXT), Japan, 2015-2018
+* Domestic Travel Support, Coordination for the Improvement of Higher Education Personnel (CAPES), Brazil, 2014
 * Master's Scholarship, Coodination of Improvement of HIgher Education Personnel (CNPq), Brazil, 2012-2014
 * Undergraduate Scholarship, Coodination of Improvement of HIgher Education Personnel (CNPq), Brazil, 2009-2010
 
