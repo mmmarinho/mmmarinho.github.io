@@ -9,21 +9,24 @@ redirect_from:
 
 {% include base_path %}
 
-Education & Work experience
+Education 
 ======
-* **B.Sc. in Mechatronics Engineering, [University of Brasilia](http://www.alunoestrangeiro.unb.br/en/), 2012**
+* **B.Sc. in Mechatronics Engineering, University of Brasilia, 2012**
 * **M.Sc. in Electronics and Automation Engineering, University of Brasilia, 2014**
-* Graduate Research Student in Mechanical Engineering, [The University of Tokyo](https://www.u-tokyo.ac.jp/en/index.html), 2015
-* Graduate Visiting Scholar, [Johns Hopkins University](https://www.jhu.edu/), 2018
 * **Ph.D in Mechanical Engineering, The University of Tokyo, 2018**
-* Postdoctoral researcher, The University of Tokyo, 2018
-* **Assistant Professor, Department of Mechanical Engineering, The University of Tokyo, 2019**
+
+Research and work experience
+======
+* Graduate Research Student in Mechanical Engineering, The University of Tokyo, 2015/5-2015/9
+* Graduate Visiting Scholar, Johns Hopkins University, 2018/2-2018/3
+* Postdoctoral researcher, The University of Tokyo, 2018/10-2019/3
+* Assistant Professor, Department of Mechanical Engineering, The University of Tokyo, 2019/4-Today
 
 Awards
 =====
 * Best paper runner-up award, ACM International Workship on Sensor-based Activity Recognition and Interaction, 2017
 
-Scholarships 
+Scholarships and travel grants
 ======
 * Overseas Travel Support, Graduate Program for Mechanical Systems Innovation (GMSI), Japan, 2018
 * Research Student & Ph.D. Scholarship, Japanese Government (文部科学省:MEXT) Scholarship, Japan, 2015-2018
@@ -33,7 +36,7 @@ Scholarships
 Research grants
 ======
 **Main investigator**
-* Grant-in-Aid for Early-Career Scientists, Japan Society for the Promotion of Science, 2019-2021
+* Grant-in-Aid for Early-Career Scientists（科研費若手）, Japan Society for the Promotion of Science, 2019-2021
 
 Reviews
 ======
