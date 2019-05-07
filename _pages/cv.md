@@ -36,8 +36,12 @@ Scholarships and travel grants
 
 Research grants
 ======
+
 **Main investigator**
 * Grant-in-Aid for Early-Career Scientists（科研費若手）, Japan Society for the Promotion of Science, 2019-2021
+
+**Co-investigator**
+* Cooperative Research Agreement, University of Tokyo-Osaka University-Toshiba, 2019
 
 Reviews
 ======
