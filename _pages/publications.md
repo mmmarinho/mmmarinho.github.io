@@ -9,4 +9,4 @@ For my latest papers, please check my [Google Scholar profile](https://scholar.g
 
 My pre-prints are almost always available at [arXiv](https://arxiv.org/search/cs?searchtype=author&query=Marinho%2C+M+M).
 
-<script src="https://bibbase.org/show?bib=https%3A%2F%2Fmmmarinho.github.io%2Ffiles%2Fmurilomarinho.bib&jsonp=1&group0=type"></script> 
+<script src="https://bibbase.org/show?bib=https%3A%2F%2Fmmmarinho.github.io%2Ffiles%2Fmurilomarinho.bib&jsonp=1"></script> 
