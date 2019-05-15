@@ -102,7 +102,7 @@ span.bibbase_note
     font-weight: bold;
 }
 
-.note
+span.note
 {
     color: green;
     font-style: italic;
