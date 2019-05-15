@@ -96,3 +96,11 @@ img.bibbase_icon:hover {
     font-size: smaller;
 }
 
+
+/*
+   Change Arxiv Links https://bibbase.userecho.com/communities/1/topics/46-support-for-links-to-arxiv-preprints
+   ========================================================================== */
+
+a[href^="http://arxiv.org"] .bibbase_icon { display: none; }
+a[href^="http://arxiv.org"] .bibbase_icon_text { display: inline-block; }
+
