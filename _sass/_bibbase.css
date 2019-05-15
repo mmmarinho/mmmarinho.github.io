@@ -96,7 +96,7 @@ img.bibbase_icon:hover {
     font-size: smaller;
 }
 
-.bibbase_note
+span.bibbase_note
 {
     color: red;
     font-weight: bold;
