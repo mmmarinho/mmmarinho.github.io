@@ -96,14 +96,12 @@ img.bibbase_icon:hover {
     font-size: smaller;
 }
 
-span.bibbase_note
-{
+span.bibbase_note {
     color: red;
     font-weight: bold;
 }
 
-span.note
-{
+span.note {
     color: green;
     font-style: italic;
 }
