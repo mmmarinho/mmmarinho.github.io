@@ -99,11 +99,13 @@ img.bibbase_icon:hover {
 .bibbase_note
 {
     color: red;
+    font-weight: bold;
 }
 
 .note
 {
     color: green;
+    font-style: italic;
 }
 
 /*
