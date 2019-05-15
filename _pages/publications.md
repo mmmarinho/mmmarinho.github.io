@@ -22,7 +22,7 @@ You can also check my [Google Scholar profile](https://scholar.google.com/citati
 My pre-prints are almost always available at [arXiv](https://arxiv.org/search/cs?searchtype=author&query=Marinho%2C+M+M).
 After accepted, I update arXiv with the accepted manuscript in accordance to the publisher's green open-access policy (e.g. [IEEE's Policy](https://open.ieee.org/index.php/about-ieee-open-access/faqs/)).
 
-For transparency, I added notes to the conference papers as follows
+For transparency, I added notes to the conference papers as follows:
 - <span class="note">Short paper</span>: a conference paper with less than 4 pages reporting work-in-progress research.
 - <span class="note">Domestic conference</span>: a conference paper published in a national-scoped conference, with any length.
 - Anything else is a full-length (4+ pages) international conference paper.
