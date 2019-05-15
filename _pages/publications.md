@@ -10,5 +10,5 @@ For my latest papers, please check my [Google Scholar profile](https://scholar.g
 My pre-prints are almost always available at [arXiv](https://arxiv.org/search/cs?searchtype=author&query=Marinho%2C+M+M).
 After accepted, I update arXiv with the accepted manuscript in accordance to the publisher's green open-access policy (e.g. [IEEE's Policy](https://open.ieee.org/index.php/about-ieee-open-access/faqs/)).
 
-<script src="https://bibbase.org/show?bib=mmmarinho.github.io/files/murilomarinho.bib&group0=type&css=mmmarinho.github.io/_sass/_bibbase.css"></script> 
+<script src="https://bibbase.org/show?bib=mmmarinho.github.io/files/murilomarinho.bib&group0=type"></script> 
 
