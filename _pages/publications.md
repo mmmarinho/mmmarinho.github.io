@@ -11,3 +11,4 @@ My pre-prints are almost always available at [arXiv](https://arxiv.org/search/cs
 After accepted, I update arXiv with the accepted manuscript in accordance to the publisher's green open-access policy (e.g. [IEEE's Policy](https://open.ieee.org/index.php/about-ieee-open-access/faqs/)).
 
 <script src="https://bibbase.org/show?bib=mmmarinho.github.io%2Ffiles%2Fmurilomarinho.bib&jsonp=1&group0=type&css= mmmarinho.github.io/_sass/_bibbase.css"></script> 
+
