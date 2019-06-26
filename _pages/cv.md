@@ -25,6 +25,7 @@ Research and work experience
 Awards
 =====
 * Best paper runner-up award, ACM International Workship on Sensor-based Activity Recognition and Interaction, 2017
+* Best Innovation Award, Surgical Robot Challenge, 2019
 
 Scholarships and travel grants
 ======
