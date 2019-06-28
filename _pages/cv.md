@@ -26,6 +26,7 @@ Awards
 =====
 * Best paper runner-up award, ACM International Workship on Sensor-based Activity Recognition and Interaction, 2017
 * Best Innovation Award, Surgical Robot Challenge, 2019
+* Overall Winner Award, Surgical Robot Challenge, 2019
 
 Scholarships and travel grants
 ======
@@ -39,9 +40,10 @@ Research grants
 ======
 
 **Main investigator**
-* Grant-in-Aid for Early-Career Scientists（科研費若手）, Japan Society for the Promotion of Science, 2019-2021 [(link)](https://kaken.nii.ac.jp/en/grant/KAKENHI-PROJECT-19K14935/)
+* Grant-in-Aid for Early-Career Scientists 科研費若手, Japan Society for the Promotion of Science, 2019-2021 [(link)](https://kaken.nii.ac.jp/en/grant/KAKENHI-PROJECT-19K14935/)
 
 **Co-investigator**
+* Grant-in-Aid for Challenging Research (Pioneering) 科研費挑戦的（開拓), Japan Society for the Promotion of Science, 2019-2023
 * Cooperative Research Agreement, University of Tokyo-Osaka University-Toshiba, 2019
 
 Reviews
