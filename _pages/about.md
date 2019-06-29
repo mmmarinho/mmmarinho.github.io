@@ -16,7 +16,7 @@ My research interests are mostly in the field of robotics applied to medicine. I
 
 How to work with me
 ======
-Please take your time checking my [publications](https://mmmarinho.github.io/publications/), my [laboratory's homepage,](http://www.nml.t.u-tokyo.ac.jp/en/index-e.html) and the videos below. If you are interested in working with me as student or collaborator, just send me an e-mail, I check it quite frequently.
+Please take your time checking my [publications](https://mmmarinho.github.io/publications/), my [laboratory's homepage,](http://www.nml.t.u-tokyo.ac.jp/en/index-e.html) and the videos below. If you are interested in working with me, just send me an e-mail.
 
 Research-related Videos
 ======
