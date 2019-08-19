@@ -20,4 +20,4 @@ Please take your time checking my [publications](https://mmmarinho.github.io/pub
 
 Research-related Videos
 ======
-<iframe width="720" height="405" src="https://www.youtube.com/embed/?listType=playlist&list=PLEaoptoGrhsRBXs-nKw2zQbX9GQLHxZhC" frameborder="0" allowfullscreen>
+<iframe width="720" height="405" src="https://www.youtube.com/playlist?list=PLfnnpBCwI_l8DMpm5Q5t8gjXYFoM_tOlz" frameborder="0" allowfullscreen>
