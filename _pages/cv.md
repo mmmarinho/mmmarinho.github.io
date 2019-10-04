@@ -26,15 +26,15 @@ Awards
 =====
 * Overall Winner Award, Surgical Robot Challenge, 2019
 * Best Innovation Award, Surgical Robot Challenge, 2019
-* Best paper runner-up award, ACM International Workship on Sensor-based Activity Recognition and Interaction, 2017
+* Best paper runner-up award, ACM International Workshop on Sensor-based Activity Recognition and Interaction, 2017
 
 Scholarships and travel grants
 ======
 * Overseas Travel Support, Graduate Program for Mechanical Systems Innovation (GMSI), Japan, 2018
 * Research Student & Ph.D. Scholarship, Japanese Government (文部科学省:MEXT), Japan, 2015-2018
 * Domestic Travel Support, Coordination for the Improvement of Higher Education Personnel (CAPES), Brazil, 2014
-* Master's Scholarship, Coodination of Improvement of HIgher Education Personnel (CNPq), Brazil, 2012-2014
-* Undergraduate Scholarship, Coodination of Improvement of HIgher Education Personnel (CNPq), Brazil, 2009-2010
+* Master's Scholarship, Coodination of Improvement of Higher Education Personnel (CNPq), Brazil, 2012-2014
+* Undergraduate Scholarship, Coodination of Improvement of Higher Education Personnel (CNPq), Brazil, 2009-2010
 
 Research grants
 ======
