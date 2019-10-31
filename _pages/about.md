@@ -14,11 +14,6 @@ I have a B.Sc. (2012) in Mechatronics Engineering and M.Sc. (2014) in Electronic
 
 My research interests are mostly in the field of robotics applied to medicine. I also have some works in robot control theory and image processing.
 
-<!--How to work with me
-======
-Please take your time checking my [publications](https://mmmarinho.github.io/publications/), my [laboratory's homepage,](http://www.nml.t.u-tokyo.ac.jp/en/index-e.html) and the videos below. If you are interested in working with me, just send me an e-mail.-->
-
-Research-related Videos
-======
+### Research-related Videos
 
 <iframe width="720" height="405" src="https://www.youtube.com/embed/?listType=playlist&list=PLfnnpBCwI_l8DMpm5Q5t8gjXYFoM_tOlz" frameborder="0" allowfullscreen>
