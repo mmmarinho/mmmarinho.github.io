@@ -53,7 +53,7 @@ Please check my [Publons profile](https://publons.com/researcher/1488056/murilo-
 Memberships 
 ======
 * IEEE Member
-* JSME Member 
+* JSME Member （日本機械学会正員）
 
 Languages 
 ======
