@@ -40,10 +40,10 @@ Research grants
 ======
 
 **Main investigator**
-* Grant-in-Aid for Early-Career Scientists 科研費若手 [(19K14935)](https://kaken.nii.ac.jp/en/grant/KAKENHI-PROJECT-19K14935/), Japan Society for the Promotion of Science, 2019-2021 
+* Grant-in-Aid for Early-Career Scientists 科研費若手 [19K14935](https://kaken.nii.ac.jp/en/grant/KAKENHI-PROJECT-19K14935/), Japan Society for the Promotion of Science, 2019-2021 
 
 **Co-investigator**
-* Grant-in-Aid for Challenging Research (Pioneering) 科研費挑戦的（開拓) [(19H05585)](https://kaken.nii.ac.jp/en/grant/KAKENHI-PROJECT-19H05585/), Japan Society for the Promotion of Science, 2019-2023 
+* Grant-in-Aid for Challenging Research (Pioneering) 科研費挑戦的（開拓) [19H05585](https://kaken.nii.ac.jp/en/grant/KAKENHI-PROJECT-19H05585/), Japan Society for the Promotion of Science, 2019-2023 
 * Cooperative Research Agreement, University of Tokyo-Osaka University-Toshiba, 2019
 
 Reviews
