@@ -50,9 +50,9 @@ Reviews
 ======
 Please check my [Publons profile](https://publons.com/researcher/1488056/murilo-marques-marinho/) for all my verified work as a reviewer.
 
-Languages I'm comfortable with
+Languages 
 ======
-Please feel free to contact me in any of the following languages
+Feel free to contact me in
 * <img src="/images/brazil_flag.png" width="20" height="15"> Portuguese
 * <img src="/images/usa_flag.png" width="20" height="15"> English
 * <img style='border:1px solid #000000' src="/images/japan_flag.png" width="20" height="15"> Japanese
