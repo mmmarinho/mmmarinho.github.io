@@ -50,6 +50,11 @@ Reviews
 ======
 Please check my [Publons profile](https://publons.com/researcher/1488056/murilo-marques-marinho/) for all my verified work as a reviewer.
 
+Memberships 
+======
+* IEEE Member
+* JSME Member 
+
 Languages 
 ======
 Feel free to contact me in
