@@ -39,7 +39,7 @@ Scholarships and travel grants
 Research grants
 ======
 
-**Main investigator**
+**Principal investigator**
 * Cooperative Research Agreement, University of Tokyo-Osaka University-Toshiba, 2020~
 * Grant-in-Aid for Early-Career Scientists 科研費若手 [19K14935](https://kaken.nii.ac.jp/en/grant/KAKENHI-PROJECT-19K14935/), Japan Society for the Promotion of Science, 2019-2021 
 
