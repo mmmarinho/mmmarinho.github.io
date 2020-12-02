@@ -17,10 +17,6 @@ author_profile: true
     font-style: italic;
 }
 
-.groupby_dropdown {
-  display: none;
-}
-
 </style>
 
 ### Researcher profiles
