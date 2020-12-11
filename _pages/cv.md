@@ -37,17 +37,6 @@ Awards
 |2019 | Best Innovation Award | Surgical Robot Challenge |
 |2017 | Best paper runner-up award | ACM International Workshop on Sensor-based Activity Recognition and Interaction |
 
-Scholarships and travel grants
-======
-
-|     |     |     |     |
-| --- | --- | --- | --- |
-|<img style='border:1px solid #000000' src="/images/japan_flag.png" width="20" height="15">|2018 | Overseas Travel Support | Graduate Program for Mechanical Systems Innovation (GMSI) |
-|<img style='border:1px solid #000000' src="/images/japan_flag.png" width="20" height="15">|2015 --- 2018 | Research Student & Ph.D. Scholarship | Japanese Government (文部科学省:MEXT) |
-|<img style='border:1px solid #000000' src="/images/japan_flag.png" width="20" height="15">|2014 | Domestic Travel Support | Coordination for the Improvement of Higher Education Personnel (CAPES) |
-|<img src="/images/brazil_flag.png" width="20" height="15">|2012 --- 2014 | Master's Scholarship | Coodination of Improvement of Higher Education Personnel (CNPq) |
-|<img src="/images/brazil_flag.png" width="20" height="15">|2009 --- 2010 | Undergraduate Scholarship | Coodination of Improvement of Higher Education Personnel (CNPq) |
-
 Research grants
 ======
 
@@ -65,6 +54,17 @@ Research grants
 |<img style='border:1px solid #000000' src="/images/japan_flag.png" width="20" height="15">|2020 --- 2025 | Grant-in-Aid for Scientific Research (A) 科研費基盤研究（A) [20H00227](https://kaken.nii.ac.jp/en/grant/KAKENHI-PROJECT-20H00227/) | Japan Society for the Promotion of Science |
 |<img style='border:1px solid #000000' src="/images/japan_flag.png" width="20" height="15">|2019 --- 2023 | Grant-in-Aid for Challenging Research (Pioneering) 科研費挑戦的（開拓) [20K20489](https://kaken.nii.ac.jp/en/grant/KAKENHI-PROJECT-20K20489/) | Japan Society for the Promotion of Science |
 |<img style='border:1px solid #000000' src="/images/japan_flag.png" width="20" height="15">|2019 | Cooperative Research Agreement | University of Tokyo-Osaka University-Toshiba |
+
+Scholarships and travel grants
+======
+
+|     |     |     |     |
+| --- | --- | --- | --- |
+|<img style='border:1px solid #000000' src="/images/japan_flag.png" width="20" height="15">|2018 | Overseas Travel Support | Graduate Program for Mechanical Systems Innovation (GMSI) |
+|<img style='border:1px solid #000000' src="/images/japan_flag.png" width="20" height="15">|2015 --- 2018 | Research Student & Ph.D. Scholarship | Japanese Government (文部科学省:MEXT) |
+|<img src="/images/brazil_flag.png" width="20" height="15">|2014 | Domestic Travel Support | Coordination for the Improvement of Higher Education Personnel (CAPES) |
+|<img src="/images/brazil_flag.png" width="20" height="15">|2012 --- 2014 | Master's Scholarship | Coodination of Improvement of Higher Education Personnel (CNPq) |
+|<img src="/images/brazil_flag.png" width="20" height="15">|2009 --- 2010 | Undergraduate Scholarship | Coodination of Improvement of Higher Education Personnel (CNPq) |
 
 Reviews
 ======
