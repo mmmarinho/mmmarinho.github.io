@@ -11,6 +11,7 @@ redirect_from:
 
 Education 
 ======
+
 |     |     |     |     |
 | --- | --- | --- | --- |
 |<img style='border:1px solid #000000' src="/images/japan_flag.png" width="20" height="15">|2018 |**Ph.D. in Mechanical Engineering　博士（工）**| **The University of Tokyo**|
@@ -19,6 +20,7 @@ Education
 
 Research and work experience
 ======
+
 |     |     |     |     |
 | --- | --- | --- | --- |
 |<img style='border:1px solid #000000' src="/images/japan_flag.png" width="20" height="15">|2019/04 --- Today| Assistant Professor（助教）|The University of Tokyo|
@@ -28,6 +30,7 @@ Research and work experience
 
 Awards
 =====
+
 |     |     |     |
 | --- | --- | --- |
 |2019 | Overall Winner Award | Surgical Robot Challenge |
@@ -36,6 +39,7 @@ Awards
 
 Scholarships and travel grants
 ======
+
 |     |     |     |     |
 | --- | --- | --- | --- |
 |<img style='border:1px solid #000000' src="/images/japan_flag.png" width="20" height="15">|2018 | Overseas Travel Support | Graduate Program for Mechanical Systems Innovation (GMSI) |
@@ -48,12 +52,14 @@ Research grants
 ======
 
 **Principal investigator**
+
 |     |     |     |     |
 | --- | --- | --- | --- |
 |<img style='border:1px solid #000000' src="/images/japan_flag.png" width="20" height="15">|2020 --- Today | Cooperative Research Agreement | University of Tokyo-Osaka University-Toshiba |
 |<img style='border:1px solid #000000' src="/images/japan_flag.png" width="20" height="15">|2019 --- 2021  | Grant-in-Aid for Early-Career Scientists 科研費若手 [19K14935](https://kaken.nii.ac.jp/en/grant/KAKENHI-PROJECT-19K14935/) | Japan Society for the Promotion of Science |
 
 **Co-investigator**
+
 |     |     |     |     |
 | --- | --- | --- | --- |
 |<img style='border:1px solid #000000' src="/images/japan_flag.png" width="20" height="15">|2020 --- 2025 | Grant-in-Aid for Scientific Research (A) 科研費基盤研究（A) [20H00227](https://kaken.nii.ac.jp/en/grant/KAKENHI-PROJECT-20H00227/) | Japan Society for the Promotion of Science |
