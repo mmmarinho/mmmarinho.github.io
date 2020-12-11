@@ -48,13 +48,17 @@ Research grants
 ======
 
 **Principal investigator**
-* (2020 --- Today) Cooperative Research Agreement, University of Tokyo-Osaka University-Toshiba
-* (2019 --- 2021) Grant-in-Aid for Early-Career Scientists 科研費若手 [19K14935](https://kaken.nii.ac.jp/en/grant/KAKENHI-PROJECT-19K14935/), Japan Society for the Promotion of Science, 
+|     |     |     |     |
+| --- | --- | --- | --- |
+|<img style='border:1px solid #000000' src="/images/japan_flag.png" width="20" height="15">|2020 --- Today | Cooperative Research Agreement | University of Tokyo-Osaka University-Toshiba |
+|<img style='border:1px solid #000000' src="/images/japan_flag.png" width="20" height="15">|2019 --- 2021  | Grant-in-Aid for Early-Career Scientists 科研費若手 [19K14935](https://kaken.nii.ac.jp/en/grant/KAKENHI-PROJECT-19K14935/) | Japan Society for the Promotion of Science |
 
 **Co-investigator**
-* (2020 --- 2025) Grant-in-Aid for Scientific Research (A) 科研費基盤研究（A) [20H00227](https://kaken.nii.ac.jp/en/grant/KAKENHI-PROJECT-20H00227/), Japan Society for the Promotion of Science
-* (2019 --- 2023) Grant-in-Aid for Challenging Research (Pioneering) 科研費挑戦的（開拓) [20K20489](https://kaken.nii.ac.jp/en/grant/KAKENHI-PROJECT-20K20489/), Japan Society for the Promotion of Science
-* (2019) Cooperative Research Agreement, University of Tokyo-Osaka University-Toshiba
+|     |     |     |     |
+| --- | --- | --- | --- |
+|<img style='border:1px solid #000000' src="/images/japan_flag.png" width="20" height="15">|2020 --- 2025 | Grant-in-Aid for Scientific Research (A) 科研費基盤研究（A) [20H00227](https://kaken.nii.ac.jp/en/grant/KAKENHI-PROJECT-20H00227/) | Japan Society for the Promotion of Science |
+|<img style='border:1px solid #000000' src="/images/japan_flag.png" width="20" height="15">|2019 --- 2023 | Grant-in-Aid for Challenging Research (Pioneering) 科研費挑戦的（開拓) [20K20489](https://kaken.nii.ac.jp/en/grant/KAKENHI-PROJECT-20K20489/) | Japan Society for the Promotion of Science |
+|<img style='border:1px solid #000000' src="/images/japan_flag.png" width="20" height="15">|2019 | Cooperative Research Agreement | University of Tokyo-Osaka University-Toshiba |
 
 Reviews
 ======
