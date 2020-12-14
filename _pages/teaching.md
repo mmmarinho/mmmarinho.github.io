@@ -9,7 +9,7 @@ author_profile: true
 
 |Link|Title|
 |---|---|
-|[1.](#kinematic)|Kinematic modeling and control of serial-link robotic manipulators using DQ Robotics: From zero to hero|
+|[1.](#kinematic-modeling-and-control-of-serial-link-robotic-manipulators)|Kinematic modeling and control of serial-link robotic manipulators using DQ Robotics: From zero to hero|
 
 ## Kinematic modeling and control of serial-link robotic manipulators
 
