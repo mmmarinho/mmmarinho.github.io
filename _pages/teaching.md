@@ -7,12 +7,9 @@ author_profile: true
 
 {% include base_path %}
 
+# Online
 
-## Robotic manipulators
-
-|     |     |
-| --- | --- |
-| Kinematic modeling and control of serial-link robotic manipulators using DQ Robotics: From zero to hero | [[1]](https://github.com/dqrobotics/learning-dqrobotics-in-matlab/tree/master/robotic_manipulators) |
+## 1. Kinematic modeling and control of serial-link robotic manipulators
 
 ### Instructions
 
