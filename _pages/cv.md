@@ -16,7 +16,7 @@ Education
 | --- | --- | --- | --- |
 |<img style='border:1px solid #000000' src="/images/japan_flag.png" width="20" height="15">|2018 |**Ph.D. in Mechanical Engineering　博士（工）**| **The University of Tokyo**|
 |<img src="/images/brazil_flag.png" width="20" height="15">|2014| **M.Sc. in Electronics and Automation Engineering** | **University of Brasilia** |
-|<img src="/images/brazil_flag.png" width="20" height="15">|2012| **B.Sc. in Mechatronics Engineering** | **University of Brasilia**
+|<img src="/images/brazil_flag.png" width="20" height="15">|2012| **B.Sc. in Mechatronics Engineering** | **University of Brasilia** |
 
 Research and work experience
 ======
