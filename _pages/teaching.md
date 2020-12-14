@@ -13,7 +13,7 @@ author_profile: true
 
 ## Kinematic modeling and control of serial-link robotic manipulators
 
-A crash course on the kinematic modeling and control of robotic manipulators. Start from the very basic mathematical operations available in MATLAB to constrained control of multiple manipulators with degrees-of-freedom.
+A crash course on the kinematic modeling and control of robotic manipulators. Start from the very basic mathematical operations available in MATLAB to constrained control of manipulators with multiple degrees-of-freedom.
 
 ### Instructions
 
