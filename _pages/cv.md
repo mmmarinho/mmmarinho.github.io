@@ -9,24 +9,24 @@ redirect_from:
 
 {% include base_path %}
 
-Education 
-======
-
-|<img width=20/>|     |     |     |
-| --- | --- | --- | --- |
-|<img style='border:1px solid #000000' src="/images/japan_flag.png" width="20" height="15">|2018 |**Ph.D. in Mechanical Engineering <br>博士（工）**| **The University of Tokyo**|
-|<img src="/images/brazil_flag.png" width="20" height="15">|2014| **M.Sc. in Electronics and Automation Engineering** | **University of Brasilia** |
-|<img src="/images/brazil_flag.png" width="20" height="15">|2012| **B.Sc. in Mechatronics Engineering** | **University of Brasilia** |
-
-Research and work experience
+Work experience
 ======
 
 |<img width=20/>|     |     |     |
 | --- | --- | --- | --- |
 |<img style='border:1px solid #000000' src="/images/japan_flag.png" width="20" height="15">|2019/04 --- Today| Assistant Professor <br>助教|The University of Tokyo|
 |<img style='border:1px solid #000000' src="/images/japan_flag.png" width="20" height="15">|2018/10 --- 2019/03| Postdoctoral Researcher <br>特任研究員| The University of Tokyo |
+
+Education 
+======
+
+|<img width=20/>|     |     |     |
+| --- | --- | --- | --- |
+|<img style='border:1px solid #000000' src="/images/japan_flag.png" width="20" height="15">|2018 |**Ph.D. in Mechanical Engineering <br>博士（工）**| **The University of Tokyo**|
 |<img src="/images/usa_flag.png" width="20" height="15">|2018/02 --- 2018/03| Graduate Visiting Scholar | Johns Hopkins University |
 |<img style='border:1px solid #000000' src="/images/japan_flag.png" width="20" height="15">|2015/04 --- 2015/09| Graduate Research Student <br>研究生| The University of Tokyo |
+|<img src="/images/brazil_flag.png" width="20" height="15">|2014| **M.Sc. in Electronics and Automation Engineering** | **University of Brasilia** |
+|<img src="/images/brazil_flag.png" width="20" height="15">|2012| **B.Sc. in Mechatronics Engineering** | **University of Brasilia** |
 
 Awards
 =====
