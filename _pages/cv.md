@@ -31,11 +31,11 @@ Research and work experience
 Awards
 =====
 
-|     |     |     |
-| --- | --- | --- |
-|2019 | Overall Winner Award | Surgical Robot Challenge |
-|2019 | Best Innovation Award | Surgical Robot Challenge |
-|2017 | Best paper runner-up award | ACM International Workshop on Sensor-based Activity Recognition and Interaction |
+|     |     |     |     |
+| --- | --- | --- | --- |
+|<img src="/images/uk_flag.png" width="20" height="15">|2019 | Overall Winner Award | Surgical Robot Challenge |
+|<img src="/images/uk_flag.png" width="20" height="15">|2019 | Best Innovation Award | Surgical Robot Challenge |
+|<img src="/images/germany_flag.png" width="20" height="15">|2017 | Best paper runner-up award | ACM International Workshop on Sensor-based Activity Recognition and Interaction |
 
 Research grants
 ======
