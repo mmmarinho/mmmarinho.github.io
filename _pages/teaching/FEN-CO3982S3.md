@@ -21,7 +21,7 @@ All of the project's contents for this semester will be made available (incremen
 
 (The link is password protected and the password is shared in the Slack account, in `#general`)
 
-- (2021 S1S2) http://u.pc.cd/zPP7
+- [Contents for 2021 S1S2](http://u.pc.cd/zPP7)
 
 # License
 Unless otherwise explicitly stated on the file itself, you cannot share any of the files with people not registered in this project. 
