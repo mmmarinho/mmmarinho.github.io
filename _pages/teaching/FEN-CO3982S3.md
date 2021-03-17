@@ -1,3 +1,4 @@
+
 ---
 layout: archive
 title: "国際連携（特別）演習　Ⅲ／International Collaborative Pratice III"
@@ -10,8 +11,9 @@ author_profile: true
 # Teleoperated Robots: The Basics of Design, Fabrication, and Control.
 
 ## First of all, wait!
-Please wait until you have been asked to open the Kit during one of the lectures.
+If you got your kit already, please wait until you have been asked to open the Kit during one of the lectures.
 
+![not so fast!](https://user-images.githubusercontent.com/46012516/111438785-ffdc7d80-8747-11eb-8265-1794c4f04d99.gif)
 ## I need help!
 Use the project's Slack workspace to communicate. You will be invited to join it during one of the first few lectures.
 
