@@ -1,4 +1,3 @@
-
 ---
 layout: archive
 title: "国際連携（特別）演習　Ⅲ／International Collaborative Pratice III"
