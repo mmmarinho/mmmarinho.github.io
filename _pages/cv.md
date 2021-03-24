@@ -33,6 +33,7 @@ Awards
 
 |<img width=20/>|     |     |     |
 | --- | --- | --- | --- |
+|<img style='border:1px solid #000000' src="/images/japan_flag.png" width="20" height="15">|2021 | Online/Hybrid class good practices <br> オンライン授業・ハイブリッド授業のグッドプラクティス | The University of Tokyo Dean's commendation <br> 東京大学総長表彰 |
 |<img src="/images/uk_flag.png" width="20" height="15">|2019 | Overall Winner Award | Surgical Robot Challenge |
 |<img src="/images/uk_flag.png" width="20" height="15">|2019 | Best Innovation Award | Surgical Robot Challenge |
 |<img src="/images/germany_flag.png" width="20" height="15">|2017 | Best paper runner-up award | ACM International Workshop on Sensor-based Activity Recognition and Interaction |
