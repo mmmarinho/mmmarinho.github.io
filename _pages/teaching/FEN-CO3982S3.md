@@ -12,8 +12,12 @@ author_profile: true
 ### 0. Guidance session
 `Tuesday, April 6th, 2021. 18:45 -19:45 JST`
 
-The Zoom URL for the information session can be accessed from the following URL. To access this link, you need to login with your ECCS account.
+The Zoom URL for the information session can be accessed from the following URL. 
+
 https://docs.google.com/spreadsheets/d/1g2D7VI8289Sp-CsvNIQIXRBak7iLBe9DaNbk2h8BfEA/edit?usp=sharing
+
+You need to login with your ECCS account to view the contents of that shared folder.
+
 
 ### 1. First of all, wait!
 Please wait until you have been asked to open your kit during one of the lectures.
