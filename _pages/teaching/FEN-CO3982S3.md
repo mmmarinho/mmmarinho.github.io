@@ -33,7 +33,7 @@ All of the project's contents for this semester will be made available (incremen
 
 (The link is password protected and the password is shared in the Slack account, in `#general`)
 
-- ~~[Contents for 2021 S1S2]~~
+- ~~Contents for 2021 S1S2~~
 - [Contents for 2021 A1A2](http://u.pc.cd/LCW7)
 
 ### 4. License
