@@ -10,9 +10,9 @@ author_profile: true
 # Teleoperated Robots: The Basics of Design, Fabrication, and Control.
 
 ### 0. Guidance session
-`Tuesday, April 6th, 2021. 18:45 -19:45 JST`
+`Tuesday, October 4th, 2021. 18:45 -19:45 JST`
 
-The Zoom URL for the guidance session can be accessed [here](https://docs.google.com/spreadsheets/d/1g2D7VI8289Sp-CsvNIQIXRBak7iLBe9DaNbk2h8BfEA/edit?usp=sharing).
+The Zoom URL for the guidance session can be accessed [here](http://bit.ly/3xa870x).
 
 You need to login with your ECCS account to view the contents of that shared file.
 
@@ -33,7 +33,8 @@ All of the project's contents for this semester will be made available (incremen
 
 (The link is password protected and the password is shared in the Slack account, in `#general`)
 
-- [Contents for 2021 S1S2](http://u.pc.cd/zPP7)
+- ~~[Contents for 2021 S1S2](http://u.pc.cd/zPP7)~~
+- [Contents for 2021 A1A2](http://u.pc.cd/LCW7)
 
 ### 4. License
 Unless otherwise explicitly stated on the file itself, you cannot share any of the files with people not registered in this project. 
