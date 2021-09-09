@@ -10,7 +10,7 @@ author_profile: true
 # Teleoperated Robots: The Basics of Design, Fabrication, and Control.
 
 ### 0. Guidance session
-`Tuesday, October 4th, 2021. 18:45 -19:45 JST`
+`Tuesday, October 4th, 2021. 18:45 - 19:45 JST`
 
 The Zoom URL for the guidance session can be accessed [here](http://bit.ly/3xa870x).
 
