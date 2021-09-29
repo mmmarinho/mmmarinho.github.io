@@ -57,6 +57,7 @@ Research grants
 |<img style='border:1px solid #000000' src="/images/japan_flag.png" width="20" height="15">|2019 | Cooperative Research Agreement | --- | University of Tokyo-Osaka University-Toshiba |
 
 **Participant**
+
 |<img width=20/>|     |     |       |     |
 | ---           | --- | --- | :---: | --- |
 |<img style='border:1px solid #000000' src="/images/japan_flag.png" width="20" height="15">|2020 --- Today | Co-evolution of Human and AI-Robots to Expand Science Frontiers <br>人とAIロボットの創造的共進化によるサイエンス開拓 | [JPMJPS2033](https://sites.google.com/g.ecc.u-tokyo.ac.jp/moonshot-ai-science-robot/) | Japan Science and Technology Agency　<br>科学技術振興機構 |
