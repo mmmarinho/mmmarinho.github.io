@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "国際連携（特別）演習　III（IX）<br> (Special) International Collaborative Pratice III（IX）"
+title: "国際連携（特別）演習　III（VIII）<br> (Special) International Collaborative Pratice III（VIII）"
 permalink: /teaching/FEN-CO3982S3
 author_profile: true
 ---
