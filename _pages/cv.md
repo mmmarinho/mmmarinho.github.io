@@ -14,19 +14,19 @@ Work experience
 
 |<img width=20/>|     |     |     |
 | --- | --- | --- | --- |
-|<img style='border:1px solid #000000' src="/images/japan_flag.png" width="20" height="15">|2019/04 --- Today| Assistant Professor <br>助教|The University of Tokyo|
-|<img style='border:1px solid #000000' src="/images/japan_flag.png" width="20" height="15">|2018/10 --- 2019/03| Postdoctoral Researcher <br>特任研究員| The University of Tokyo |
+|<img style='border:1px solid #000000' src="/images/japan_flag.png" width="20" height="15">|2019/04 --- Today| Assistant Professor <br>助教|The University of Tokyo <br> 東京大学|
+|<img style='border:1px solid #000000' src="/images/japan_flag.png" width="20" height="15">|2018/10 --- 2019/03| Postdoctoral Researcher <br>特任研究員| The University of Tokyo <br> 東京大学|
 
 Education 
 ======
 
 |<img width=20/>|     |     |     |
 | --- | --- | --- | --- |
-|<img style='border:1px solid #000000' src="/images/japan_flag.png" width="20" height="15">|2018 |**Ph.D. in Mechanical Engineering** <br> 博士（工）| **The University of Tokyo**|
+|<img style='border:1px solid #000000' src="/images/japan_flag.png" width="20" height="15">|2018 |**Ph.D. in Mechanical Engineering** <br> 博士（工）| **The University of Tokyo** <br> 東京大学|
 |<img src="/images/usa_flag.png" width="20" height="15">|2018/02 --- 2018/03| Graduate Visiting Scholar | Johns Hopkins University |
-|<img style='border:1px solid #000000' src="/images/japan_flag.png" width="20" height="15">|2015/04 --- 2015/09| Graduate Research Student <br>研究生| The University of Tokyo |
-|<img src="/images/brazil_flag.png" width="20" height="15">|2014| **M.Sc. in Electronic Systems and Automation Engineering** <br> Mestre em Engenharia de Sistemas Eletrônicos e de Automação | **University of Brasilia** |
-|<img src="/images/brazil_flag.png" width="20" height="15">|2012| **B.Sc. in Mechatronics Engineering** <br> Bacharel em Engenharia Mecatrônica | **University of Brasilia** |
+|<img style='border:1px solid #000000' src="/images/japan_flag.png" width="20" height="15">|2015/04 --- 2015/09| Graduate Research Student <br>研究生| The University of Tokyo <br> 東京大学|
+|<img src="/images/brazil_flag.png" width="20" height="15">|2014| **M.Sc. in Electronic Systems and Automation Engineering** <br> Mestre em Engenharia de Sistemas Eletrônicos e de Automação | **University of Brasilia** <br> Universidade de Brasilia|
+|<img src="/images/brazil_flag.png" width="20" height="15">|2012| **B.Sc. in Mechatronics Engineering** <br> Bacharel em Engenharia Mecatrônica | **University of Brasilia** <br> Universidade de Brasilia|
 
 Awards
 =====
