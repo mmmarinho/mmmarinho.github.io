@@ -9,7 +9,8 @@ author_profile: true
 
 ## License
 
-[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/).
+Mechanical files: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/).
+</br>Software: [GPLv3](https://tldrlegal.com/license/gnu-general-public-license-v3-(gpl-3)).
 
 ## Mechanical 
 
@@ -17,7 +18,7 @@ The 3D-printer-friendly files are shared over at [Thingiverse](https://www.thing
 
 ## Software
 
-There are two main software components related to the UMIRobot. The software for the UMIRobot is licensed under GPLv3.
+There are two main software components related to the UMIRobot. 
 
 ### [umirobot-arduino](https://github.com/mmmarinho/umirobot-arduino)
 
