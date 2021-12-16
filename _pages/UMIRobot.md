@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "UMIRobot"
-permalink: /UMIRobot
+permalink: /UMIRobot/
 author_profile: true
 ---
 
