@@ -18,5 +18,7 @@ main:
   - title: "CV"
     url: /cv/
     
+  - title: "UMIRobot"
+    url: /UMIRobot/
   #- title: "Guide"
   #  url: /markdown/
