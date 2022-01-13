@@ -9,7 +9,7 @@ author_profile: true
 
 ## License
 
-Mechanical files: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/).
+Mechanical files: [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/).
 <br />Software: [GPLv3](https://tldrlegal.com/license/gnu-general-public-license-v3-(gpl-3)).
 
 ## Mechanical 
