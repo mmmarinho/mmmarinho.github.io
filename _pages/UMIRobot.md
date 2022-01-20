@@ -29,6 +29,7 @@ Note: The copyright for the student's designs remain with them.
 |2021/Spring|Unparalleled Shibas|Beady Beagles|Unparalleled Shibas|Unparalleled Shibas|
 
 ### 2021/Autumn Videos
+
 |Inteligent Calicos|Robotic Tabbys|Curious Chaussies|
 |---|---|---|
 |The sushi-meowster.|||
