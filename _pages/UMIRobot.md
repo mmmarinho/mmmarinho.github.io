@@ -12,19 +12,19 @@ The (under)graduate level students are divided into groups and have to design a 
 
 <hr/>
 
+## License
+
+Mechanical files: [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/).
+<br />Software: [GPLv3](https://tldrlegal.com/license/gnu-general-public-license-v3-(gpl-3)).
+
+<hr/>
+
 ## Past teleoperation challenge winners
 
 |Year|Semester|Best gripper|Best master|Smoothest teleoperation|Best presentation|
 |---|---|---|---|---|---|
 |2021|Autumn|Inteligent Calicos|Inteligent Calicos|Inteligent Calicos|Curious Chaussies|
 |2021|Spring|Unparalleled Shibas|Beady Beagles|Unparalleled Shibas|Unparalleled Shibas|
-
-<hr/>
-
-## License
-
-Mechanical files: [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/).
-<br />Software: [GPLv3](https://tldrlegal.com/license/gnu-general-public-license-v3-(gpl-3)).
 
 <hr/>
 
