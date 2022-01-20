@@ -26,6 +26,11 @@ Mechanical files: [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-n
 |2021|Autumn|Inteligent Calicos|Inteligent Calicos|Inteligent Calicos|Curious Chaussies|
 |2021|Spring|Unparalleled Shibas|Beady Beagles|Unparalleled Shibas|Unparalleled Shibas|
 
+### 2021-A Inteligent Calicos
+
+<video src="https://filedn.com/l0UYPwn5UWvjkjpImQ8wWeV/tr_2021_A_inteligent_calicos_480p.mp4" controls="controls" style="max-width: 730px;">
+</video>
+
 <hr/>
 
 ## Mechanical 
