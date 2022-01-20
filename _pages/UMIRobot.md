@@ -17,18 +17,20 @@ The (under)graduate level students are divided into groups and have to design a 
 Mechanical files: [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/).
 <br />Software: [GPLv3](https://tldrlegal.com/license/gnu-general-public-license-v3-(gpl-3)).
 
+Note: The copyright for the student's designs remain with them. 
+
 <hr/>
 
-## Past teleoperation challenge winners
+## Past teleoperation challenge winners by category
 
-|Year|Semester|Best gripper|Best master|Smoothest teleoperation|Best presentation|
-|---|---|---|---|---|---|
-|2021|Autumn|Inteligent Calicos|Inteligent Calicos|Inteligent Calicos|Curious Chaussies|
-|2021|Spring|Unparalleled Shibas|Beady Beagles|Unparalleled Shibas|Unparalleled Shibas|
+|Year/Semester|Best gripper|Best master|Smoothest teleoperation|Best presentation|
+|---|---|---|---|---|
+|2021/Autumn|Inteligent Calicos|Inteligent Calicos|Inteligent Calicos|Curious Chaussies|
+|2021/Spring|Unparalleled Shibas|Beady Beagles|Unparalleled Shibas|Unparalleled Shibas|
 
-### 2021-A Inteligent Calicos
-
-<video src="https://filedn.com/l0UYPwn5UWvjkjpImQ8wWeV/tr_2021_A_inteligent_calicos_480p.mp4" controls="controls" style="max-width: 730px;">
+### 2021/Autumn Inteligent Calicos
+The sushi-meowster.
+<video src="https://filedn.com/l0UYPwn5UWvjkjpImQ8wWeV/tr_2021_A_inteligent_calicos_480p.mp4" controls="controls" style="max-width: 400px;">
 </video>
 
 <hr/>
