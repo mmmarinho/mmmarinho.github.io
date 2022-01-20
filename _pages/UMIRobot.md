@@ -33,7 +33,7 @@ Note: The copyright for the student's designs remain with them.
 |Inteligent Calicos|Robotic Tabbys|Curious Chaussies|
 |---|---|---|
 |The sushi-meowster.|||
-|<video src="https://filedn.com/l0UYPwn5UWvjkjpImQ8wWeV/tr_2021_A_inteligent_calicos_480p.mp4" controls="controls" style="max-width: 200px;"></video>|<video src="https://filedn.com/l0UYPwn5UWvjkjpImQ8wWeV/tr_2021_A_robotic_tabbys_480p.mp4" controls="controls" style="max-width: 200px;"></video>|<video src="https://filedn.com/l0UYPwn5UWvjkjpImQ8wWeV/tr_2021_A_curious_chaussies_480p.mp4" controls="controls" style="max-width: 200px;"></video>|
+|<video src="https://filedn.com/l0UYPwn5UWvjkjpImQ8wWeV/tr_2021_A_inteligent_calicos_480p.mp4" controls="controls" style="max-height: 300px;"></video>|<video src="https://filedn.com/l0UYPwn5UWvjkjpImQ8wWeV/tr_2021_A_robotic_tabbys_480p.mp4" controls="controls" style="max-height: 300px;"></video>|<video src="https://filedn.com/l0UYPwn5UWvjkjpImQ8wWeV/tr_2021_A_curious_chaussies_480p.mp4" controls="controls" style="max-height: 300px;"></video>|
 
 <hr/>
 
