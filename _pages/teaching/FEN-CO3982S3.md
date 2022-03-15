@@ -13,7 +13,7 @@ author_profile: true
 
 ### 0. Registering for the course
 
-You **MUST** submit your information at: https://forms.gle/VBKx7x1Rb1EgRuYh9
+You **MUST** submit your information at: [https://forms.gle/VBKx7x1Rb1EgRuYh9](https://forms.gle/VBKx7x1Rb1EgRuYh9)
 
 |Name|Semester|Level|Code|
 |---|---|---|---|
@@ -26,7 +26,7 @@ You **MUST** submit your information at: https://forms.gle/VBKx7x1Rb1EgRuYh9
 
 ```Wednesday, April 6th, 2022. 18:45 - 19:45 JST```
 
-Link: https://bit.ly/3t00avV
+Link: [https://bit.ly/3t00avV](https://bit.ly/3t00avV)
 
 You need to login with your ECCS account to view the contents of that shared file.
 
