@@ -19,8 +19,11 @@ You **MUST** submit your information at: [https://forms.gle/VBKx7x1Rb1EgRuYh9](h
 |---|---|---|---|
 |国際連携演習S Ⅱ<br> International Collaborative Practice SII | S1S2 | 学部生 <br> Undergraduate | FEN-CO3912S3 |
 |国際連携特別演習S Ⅱ <br> Special International Collaborative Practice SII | S1S2 | 大学院生 <br> Graduate | 3799-412 |
+
+<!--- Autumn semester information
 |国際連携演習A Ⅱ<br> International Collaborative Practice AII | A1A2 | 学部生 <br> Undergraduate | FEN-CO3942S3 |
 |国際連携特別演習A Ⅱ<br> Special International Collaborative Practice AII | A1A2 | 大学院生 <br> Graduate | 3799-422 |
+--->
 
 ### 1. Guidance session
 
