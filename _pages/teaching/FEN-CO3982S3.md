@@ -25,23 +25,24 @@ author_profile: true
 
 ### 1. Guidance session
 
-Done! ```Wednesday, April 6th, 2022. 18:45 - 19:45 JST```
+Done already for Spring 2022.
+
 <!---
 ```Wednesday, April 6th, 2022. 18:45 - 19:45 JST```
-
 Link: [https://bit.ly/3t00avV](https://bit.ly/3t00avV)
-
 You need to login with your ECCS account to view the contents of that shared file.
 --->
+
 ### 2. Where are the files for this course?
 
-All of the project's contents for this semester will be made available (incrementally) through the following link:
-
-(The link is password protected and the password is shared in the Slack account, in `#general`)
-
+<!---
 - ~~Contents for 2021 S1S2~~
 - ~~Contents for 2021 A1A2~~
-- [Contents for 2022 S1S2](http://u.pc.cd/CEn)
+--->
+
+- [Contents for 2022 Spring](http://u.pc.cd/CEn)
+
+(The link is password protected and the password is shared in the Slack account, in `#general`)
 
 ### 3. I need help!
 Use the project's Slack workspace to communicate. You will be invited to join it during one of the first few lectures.
@@ -49,7 +50,7 @@ Use the project's Slack workspace to communicate. You will be invited to join it
 <img src="https://user-images.githubusercontent.com/46012516/111440458-b5f49700-8749-11eb-8834-e48fa903b72c.gif" width="500" height="100">
 
 ### 4. About the kit, just wait!
-We'll figure out a way to get you your kit. After that, please wait until you have been asked to open your kit during one of the lectures.
+We'll figure out a way to get you your kit. Don't worry.
 
 ![not so fast!](https://user-images.githubusercontent.com/46012516/111438785-ffdc7d80-8747-11eb-8265-1794c4f04d99.gif)
 
