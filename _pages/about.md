@@ -16,4 +16,14 @@ My research interests are mostly in the field of robotics applied to medicine. I
 
 ### Research-related Videos
 
-<iframe width="720" height="405" src="https://www.youtube.com/embed/?listType=playlist&list=PLfnnpBCwI_l8DMpm5Q5t8gjXYFoM_tOlz" frameborder="0" allowfullscreen>
+<iframe src="https://www.youtube.com/embed/?listType=playlist&list=PLfnnpBCwI_l8DMpm5Q5t8gjXYFoM_tOlz" frameborder="0" scrolling="yes"                           
+                                    style="overflow: hidden; height: 100%; 
+                                                width: 49%; float: left; " height="100%" width="49%"
+                                   align="left">
+                                  </iframe>  
+
+<iframe src="https://www.youtube.com/playlist?list=PLfnnpBCwI_l_sDiffl5hRHH8rmvGs8aH0" frameborder="0" scrolling="yes"                           
+                                    style="overflow: hidden; height: 100%; 
+                                                width: 49%; float: left; " height="100%" width="49%"
+                                   align="left">
+                                  </iframe>
