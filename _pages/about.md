@@ -14,10 +14,11 @@ I have a B.Sc. (2012) in Mechatronics Engineering and M.Sc. (2014) in Electronic
 
 My research interests are mostly in the field of robotics applied to medicine. I also have some works in robot control theory and image processing.
 
-### Research-related Videos
+### Paper-related Videos
 
 <iframe width="290" height="160" src="https://www.youtube.com/embed/videoseries?list=PLfnnpBCwI_l8DMpm5Q5t8gjXYFoM_tOlz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+### Press/Talks Videos
 
 <iframe width="290" height="160" src="https://www.youtube.com/embed/videoseries?list=PLfnnpBCwI_l_sDiffl5hRHH8rmvGs8aH0" title="Press/Talks" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
