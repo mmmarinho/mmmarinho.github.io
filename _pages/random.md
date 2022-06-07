@@ -27,7 +27,7 @@ do
   mv $f ${fnoe}_bckup.pdf
   # Convert to .ps
   pdf2ps ${fnoe}_bckup.pdf ${fnoe}.ps
-  # Convert bak to pdf
+  # Convert back to .pdf
   ps2pdf -dPDFSETTINGS=/printer ${fnoe}.ps $f
 done
 ```
