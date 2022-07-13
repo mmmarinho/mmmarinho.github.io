@@ -50,3 +50,9 @@ Rename all folders and files by replacing substring `A` to `B` using regex magic
 ```sh
 find . -type f -execdir rename 's/A/B/g' {} +
 ```
+
+# "Uninstalling" a cmake installed package
+
+```sh
+sudo xargs rm < install_manifest.txt
+```
