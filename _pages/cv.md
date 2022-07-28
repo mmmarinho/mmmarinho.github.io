@@ -28,6 +28,14 @@ Education
 |<img src="/images/brazil_flag.png" width="20" height="15">|2014| **M.Sc. in Electronic Systems and Automation Engineering** <br> Mestre em Engenharia de Sistemas Eletrônicos e de Automação | **University of Brasilia** <br> Universidade de Brasilia|
 |<img src="/images/brazil_flag.png" width="20" height="15">|2012| **B.Sc. in Mechatronics Engineering** <br> Bacharel em Engenharia Mecatrônica | **University of Brasilia** <br> Universidade de Brasilia|
 
+Talks
+=====
+
+|<img width=20/>|     |     |     |     |
+| --- | --- | --- | --- | --- |
+|<img style='border:1px solid #000000' src="/images/japan_flag.png" width="20" height="15">|2022/07 | Keynote Speaker | Teleoperated Robots for Medicine and Science <br> 医療・科学における遠隔操作ロボット | The 34th Annual Meeting of Japanese Society for Skull Base Surgery <br> 第34回日本頭蓋底外科学会 |
+
+
 Awards
 =====
 
