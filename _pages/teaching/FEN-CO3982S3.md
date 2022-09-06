@@ -9,7 +9,9 @@ author_profile: true
 
 # Teleoperated Robots: The Basics of Design, Fabrication, and Control.
 
-<span style="color:red">**Register your information at [https://forms.gle/x3bMJmPucZrb446z5](https://forms.gle/x3bMJmPucZrb446z5)**</span>
+<span style="color:red">**Registration open for 2022 A1A2. Classes start October 2022.**</span>
+
+*Register your information using your ECCS account [https://forms.gle/x3bMJmPucZrb446z5](https://forms.gle/x3bMJmPucZrb446z5)*
 
 <!--<span style="color:red">**No longer accepting students for the Summer semester. Information on the Autumn semester should be available around September 2022**</span>.-->
 
@@ -34,7 +36,9 @@ author_profile: true
 <!--Done already for Spring 2022.-->
 
 ```Monday, October 3rd, 2022. 18:45 - 19:45 JST```
+
 Link: [https://bit.ly/3v9potk](https://bit.ly/3v9potk)
+
 You need to login with your ECCS account to view the contents of that shared file.
 
 ### 2. Where are the files for this course?
