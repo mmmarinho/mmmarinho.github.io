@@ -9,29 +9,33 @@ author_profile: true
 
 # Teleoperated Robots: The Basics of Design, Fabrication, and Control.
 
-<span style="color:red">**No longer accepting students for the Summer semester. Information on the Autumn semester should be available around September 2022**</span>.
+<span style="color:red">**Register your information at [https://forms.gle/x3bMJmPucZrb446z5](https://forms.gle/x3bMJmPucZrb446z5)**</span>
+
+<!--<span style="color:red">**No longer accepting students for the Summer semester. Information on the Autumn semester should be available around September 2022**</span>.-->
 
 ### 0. Registering for the course
 
 |Name|Semester|Level|Code|
 |---|---|---|---|
-|国際連携演習S Ⅱ<br> International Collaborative Practice SII | S1S2 | 学部生 <br> Undergraduate | FEN-CO3912S3 |
-|国際連携特別演習S Ⅱ <br> Special International Collaborative Practice SII | S1S2 | 大学院生 <br> Graduate | 3799-412 |
-
-<!--- Autumn semester information
 |国際連携演習A Ⅱ<br> International Collaborative Practice AII | A1A2 | 学部生 <br> Undergraduate | FEN-CO3942S3 |
 |国際連携特別演習A Ⅱ<br> Special International Collaborative Practice AII | A1A2 | 大学院生 <br> Graduate | 3799-422 |
+
+
+<!-- Spring semester information
+|国際連携演習S Ⅱ<br> International Collaborative Practice SII | S1S2 | 学部生 <br> Undergraduate | FEN-CO3912S3 |
+|国際連携特別演習S Ⅱ <br> Special International Collaborative Practice SII | S1S2 | 大学院生 <br> Graduate | 3799-412 |
+-->
+
+<!--- Autumn semester information
 --->
 
 ### 1. Guidance session
 
-Done already for Spring 2022.
+<!--Done already for Spring 2022.-->
 
-<!---
-```Wednesday, April 6th, 2022. 18:45 - 19:45 JST```
-Link: [https://bit.ly/3t00avV](https://bit.ly/3t00avV)
+```Monday, October 3rd, 2022. 18:45 - 19:45 JST```
+Link: [https://bit.ly/3v9potk](https://bit.ly/3v9potk)
 You need to login with your ECCS account to view the contents of that shared file.
---->
 
 ### 2. Where are the files for this course?
 
