@@ -27,10 +27,8 @@ do
   # Backup original file. This will also automatically backup any existing
   # backups so it's mostly safe.
   mv $f ${fnoe}_bckup.pdf
-  # Convert to .ps
-  pdf2ps ${fnoe}_bckup.pdf ${fnoe}.ps
-  # Convert back to .pdf
-  ps2pdf -dPDFSETTINGS=/printer ${fnoe}.ps $f
+  # Compress. You can also try {screen,ebook,default} instead of printer.
+  ps2pdf -dPDFSETTINGS=/printer ${fnoe}_bckup.pdf $f
 done
 ```
 ## Replace file contents
