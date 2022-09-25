@@ -11,7 +11,8 @@ author_profile: true
 
 <span style="color:red">**Registration open for 2022 A1A2. Classes start October 2022.**</span>
 
-*Register your information using your ECCS account [https://forms.gle/x3bMJmPucZrb446z5](https://forms.gle/x3bMJmPucZrb446z5)*
+*Register your information using information at [https://forms.gle/x3bMJmPucZrb446z5](https://forms.gle/x3bMJmPucZrb446z5)*
+UTokyo students: please use your ECCS account.
 
 <!--<span style="color:red">**No longer accepting students for the Summer semester. Information on the Autumn semester should be available around September 2022**</span>.-->
 
