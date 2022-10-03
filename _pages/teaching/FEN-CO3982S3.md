@@ -37,6 +37,7 @@ UTokyo students: please use your ECCS account.
 <!--Done already for Spring 2022.-->
 
 ```Monday, October 3rd, 2022. 18:45 - 19:45 JST```
+PASSCODE: 615027
 
 Link: [https://bit.ly/3v9potk](https://bit.ly/3v9potk)
 
