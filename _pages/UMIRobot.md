@@ -37,16 +37,10 @@ Note: The copyright for the student's designs remain with them.
 |---|---|
 |<video src="https://filedn.com/l0UYPwn5UWvjkjpImQ8wWeV/tr_2022_S_max_mini_rex_480p.mp4" controls="controls" style="max-height: 200px;"></video>|<video src="https://filedn.com/l0UYPwn5UWvjkjpImQ8wWeV/tr_2022_S_curious_lionhead_480p.mp4" controls="controls" style="max-height: 200px;"></video>|
 
-|Inteligent Calicos|Robotic Tabbys|Curious Chaussies|
-|---|---|---|
-|<video src="https://filedn.com/l0UYPwn5UWvjkjpImQ8wWeV/tr_2021_A_inteligent_calicos_480p.mp4" controls="controls" style="max-height: 200px;"></video>|<video src="https://filedn.com/l0UYPwn5UWvjkjpImQ8wWeV/tr_2021_A_robotic_tabbys_480p.mp4" controls="controls" style="max-height: 200px;"></video>|<video src="https://filedn.com/l0UYPwn5UWvjkjpImQ8wWeV/tr_2021_A_curious_chaussies_480p.mp4" controls="controls" style="max-height: 200px;"></video>|
-
-
 ### 2021/Autumn Videos
 
 |Inteligent Calicos|Robotic Tabbys|Curious Chaussies|
 |---|---|---|
-|The sushi-meowster.|||
 |<video src="https://filedn.com/l0UYPwn5UWvjkjpImQ8wWeV/tr_2021_A_inteligent_calicos_480p.mp4" controls="controls" style="max-height: 200px;"></video>|<video src="https://filedn.com/l0UYPwn5UWvjkjpImQ8wWeV/tr_2021_A_robotic_tabbys_480p.mp4" controls="controls" style="max-height: 200px;"></video>|<video src="https://filedn.com/l0UYPwn5UWvjkjpImQ8wWeV/tr_2021_A_curious_chaussies_480p.mp4" controls="controls" style="max-height: 200px;"></video>|
 
 <hr/>
