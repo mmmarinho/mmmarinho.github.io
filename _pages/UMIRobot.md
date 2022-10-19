@@ -35,13 +35,13 @@ Note: The copyright for the student's designs remain with them.
 
 |Max-Mini Rex|Curious Lionhead|
 |---|---|
-|<video src="https://filedn.com/l0UYPwn5UWvjkjpImQ8wWeV/tr_2022_S_max_mini_rex_480p.mp4" controls="controls" style="max-height: 200px;"></video>|<video src="https://filedn.com/l0UYPwn5UWvjkjpImQ8wWeV/tr_2022_S_curious_lionhead_480p.mp4" controls="controls" style="max-height: 200px;"></video>|
+|[![Video](https://img.youtube.com/vi/T65DRtAJ47Y/sddefault.jpg)](https://www.youtube.com/watch?v=T65DRtAJ47Y)|[![Video](https://img.youtube.com/vi/o1naGEtkIeQ/sddefault.jpg)](https://www.youtube.com/watch?v=o1naGEtkIeQ)|
 
 ### 2021/Autumn Videos
 
 |Inteligent Calicos|Robotic Tabbys|Curious Chaussies|
 |---|---|---|
-|{% include youtube.html id="CfaNs1w4wMY" %}|{% include youtube.html id="zix5uXahhFg" %}|{% include youtube.html id="dfVOAAa_DoQ" %}|
+|[![Video](https://img.youtube.com/vi/CfaNs1w4wMY/sddefault.jpg)](https://www.youtube.com/watch?v=CfaNs1w4wMY)|[![Video](https://img.youtube.com/vi/zix5uXahhFg/sddefault.jpg)](https://www.youtube.com/watch?v=zix5uXahhFg)|[![Video](https://img.youtube.com/vi/dfVOAAa_DoQ/sddefault.jpg)](https://www.youtube.com/watch?v=dfVOAAa_DoQ)|
 
 <hr/>
 
