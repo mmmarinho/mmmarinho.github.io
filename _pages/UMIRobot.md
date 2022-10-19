@@ -41,7 +41,11 @@ Note: The copyright for the student's designs remain with them.
 
 |Inteligent Calicos|Robotic Tabbys|Curious Chaussies|
 |---|---|---|
-|<video src="https://filedn.com/l0UYPwn5UWvjkjpImQ8wWeV/tr_2021_A_inteligent_calicos_480p.mp4" controls="controls" style="max-height: 200px;"></video>|<video src="https://filedn.com/l0UYPwn5UWvjkjpImQ8wWeV/tr_2021_A_robotic_tabbys_480p.mp4" controls="controls" style="max-height: 200px;"></video>|<video src="https://filedn.com/l0UYPwn5UWvjkjpImQ8wWeV/tr_2021_A_curious_chaussies_480p.mp4" controls="controls" style="max-height: 200px;"></video>|
+|<iframe style="max-height: 200px;" src="https://youtu.be/CfaNs1w4wMY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>|
+<iframe style="max-height: 200px;" src="https://youtu.be/zix5uXahhFg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
+</iframe>
+|<iframe style="max-height: 200px;" src="https://youtu.be/dfVOAAa_DoQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
+</iframe>|
 
 <hr/>
 
