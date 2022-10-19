@@ -41,11 +41,12 @@ Note: The copyright for the student's designs remain with them.
 
 |Inteligent Calicos|Robotic Tabbys|Curious Chaussies|
 |---|---|---|
-|<iframe style="max-height: 200px;" src="https://youtu.be/CfaNs1w4wMY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>|
-<iframe style="max-height: 200px;" src="https://youtu.be/zix5uXahhFg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
-</iframe>
-|<iframe style="max-height: 200px;" src="https://youtu.be/dfVOAAa_DoQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
-</iframe>|
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/CfaNs1w4wMY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zix5uXahhFg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dfVOAAa_DoQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <hr/>
 
