@@ -10,16 +10,16 @@ author_profile: true
 The UMIRobot is a open {hardware, software} (5+1) robotic platform developed for online and hybrid learning courses.
 The (under)graduate level students are divided into groups and have to design a gripper and a master control.
 
-<img style='border:1px solid #000000' src="/images/umirobot_raytrace_front_withtext.png" width="400" height="300"> <img style='border:1px solid #000000' src="/images/umirobot_raytrace_up_withtext.png" width="400" height="300">
+<img style='border:1px solid #000000' src="/images/umirobot_raytrace_front_withtext.png" width="300" height="250"> <img style='border:1px solid #000000' src="/images/umirobot_raytrace_up_withtext.png" width="300" height="250">
   
 <hr/>
 
-## License
+## Featured video
 
-Mechanical files: [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/).
-<br />Software: [GPLv3](https://tldrlegal.com/license/gnu-general-public-license-v3-(gpl-3)).
+An intercontinental teleoperation experiment between Japan and Bangladesh.
+Using the UMIRobot and parts designed in this class.
 
-Note: The copyright for the student's designs remain with them. 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Y_5amab3kMQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <hr/>
 
@@ -75,3 +75,12 @@ In a computer with a `Python >= 3.8` enviroment:
 ## Electronic
 
 **Under construction**
+
+<hr/>
+
+## License
+
+Mechanical files: [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/).
+<br />Software: [GPLv3](https://tldrlegal.com/license/gnu-general-public-license-v3-(gpl-3)).
+
+Note: The copyright for the student's designs remain with them. 
