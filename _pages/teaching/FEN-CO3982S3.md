@@ -9,12 +9,12 @@ author_profile: true
 
 # Teleoperated Robots: The Basics of Design, Fabrication, and Control.
 
-<span style="color:red">**Registration open for 2022 A1A2. Classes start October 2022.**</span>
+<!--<span style="color:red">**Registration open for 2022 A1A2. Classes start October 2022.**</span>
 
 *Register your information using information at [https://forms.gle/x3bMJmPucZrb446z5](https://forms.gle/x3bMJmPucZrb446z5)*
-UTokyo students: please use your ECCS account.
+UTokyo students: please use your ECCS account.-->
 
-<!--<span style="color:red">**No longer accepting students for the Summer semester. Information on the Autumn semester should be available around September 2022**</span>.-->
+<span style="color:red">**No longer accepting students for the Autumn semester. Information on the Spring semester should be available around March 2023**</span>
 
 ### 0. Registering for the course
 
@@ -34,26 +34,25 @@ UTokyo students: please use your ECCS account.
 
 ### 1. Guidance session
 
-<!--Done already for Spring 2022.-->
+Done already for Spring Autumn.
 
-```Monday, October 3rd, 2022. 18:45 - 19:45 JST```
+<!--```Monday, October 3rd, 2022. 18:45 - 19:45 JST```
 
 PASSCODE: 615027
 
 Link: [https://bit.ly/3v9potk](https://bit.ly/3v9potk)
 
-You need to login with your ECCS account to view the contents of that shared file.
+You need to login with your ECCS account to view the contents of that shared file.-->
 
 ### 2. Where are the files for this course?
 
 <!---
 - ~~Contents for 2021 S1S2~~
 - ~~Contents for 2021 A1A2~~
+- ~~Contents for 2022 Spring~~
 --->
 
-- [Contents for 2022 Spring](http://u.pc.cd/CEn)
-
-(The link is password protected and the password is shared in the Slack account, in `#general`)
+The link is shared at the Slack workspace, in `#general`.
 
 ### 3. I need help!
 Use the project's Slack workspace to communicate. You will be invited to join it during one of the first few lectures.
