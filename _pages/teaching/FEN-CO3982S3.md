@@ -34,7 +34,7 @@ UTokyo students: please use your ECCS account.-->
 
 ### 1. Guidance session
 
-Done already for Spring Autumn.
+Done already for Autumn 2022.
 
 <!--```Monday, October 3rd, 2022. 18:45 - 19:45 JST```
 
