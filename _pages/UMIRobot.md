@@ -86,7 +86,9 @@ In a computer with a `Python >= 3.8` enviroment:
 
 ## Electronic
 
-**Under construction**
+<a href="/images/umirobot_pcb_schematics.pdf" class="box">
+<img style='border:1px solid #000000' src="/images/umirobot_pcb_schematics.png" width="480" height="300">
+</a>
 
 <hr/>
 
