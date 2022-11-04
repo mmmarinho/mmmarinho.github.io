@@ -14,7 +14,7 @@ The (under)graduate level students are divided into groups and have to design a 
   
 <hr/>
 
-## Featured video
+## Featured video: Japan <-> Bangladesh Teleoperation
 
 An intercontinental teleoperation experiment between Japan and Bangladesh.
 Using the UMIRobot and parts designed in this class.
