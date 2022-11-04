@@ -35,7 +35,7 @@ Using the UMIRobot and parts designed in this class.
 
 #### Max-Mini Rex
 
-<iframe width="250" height="200" src="https://www.youtube.com/embed/T65DRtAJ47Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="250" height="200" src="https://www.youtube.com/embed/T65DRtAJ47Y"></iframe>
 
 #### Curious Lionhead
 
