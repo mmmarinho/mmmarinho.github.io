@@ -33,15 +33,27 @@ Using the UMIRobot and parts designed in this class.
 
 ### 2022/Spring Videos
 
-|Max-Mini Rex|Curious Lionhead|
-|---|---|
-|[![Video](https://img.youtube.com/vi/T65DRtAJ47Y/0.jpg)](https://www.youtube.com/watch?v=T65DRtAJ47Y)|[![Video](https://img.youtube.com/vi/o1naGEtkIeQ/0.jpg)](https://www.youtube.com/watch?v=o1naGEtkIeQ)|
+#### Max-Mini Rex
+
+<iframe width="250" height="200" src="https://www.youtube.com/embed/T65DRtAJ47Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+#### Curious Lionhead
+
+<iframe width="250" height="200" src="https://www.youtube.com/embed/o1naGEtkIeQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### 2021/Autumn Videos
 
-|Inteligent Calicos|Robotic Tabbys|Curious Chaussies|
-|---|---|---|
-|[![Video](https://img.youtube.com/vi/CfaNs1w4wMY/0.jpg)](https://www.youtube.com/watch?v=CfaNs1w4wMY)|[![Video](https://img.youtube.com/vi/zix5uXahhFg/0.jpg)](https://www.youtube.com/watch?v=zix5uXahhFg)|[![Video](https://img.youtube.com/vi/dfVOAAa_DoQ/0.jpg)](https://www.youtube.com/watch?v=dfVOAAa_DoQ)|
+#### Inteligent Calicos 
+
+<iframe width="250" height="200" src="https://www.youtube.com/embed/CfaNs1w4wMY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+#### Robotic Tabbys 
+
+<iframe width="250" height="200" src="https://www.youtube.com/embed/zix5uXahhFg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+#### Curious Chaussies 
+
+<iframe width="250" height="200" src="https://www.youtube.com/embed/dfVOAAa_DoQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <hr/>
 
