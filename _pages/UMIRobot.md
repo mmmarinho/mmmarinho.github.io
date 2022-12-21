@@ -19,7 +19,7 @@ The (under)graduate level students are divided into groups and have to design a 
 An intercontinental teleoperation experiment between Japan and Bangladesh.
 Using the UMIRobot and parts designed in this class.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Y_5amab3kMQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="200" height="110" src="https://www.youtube.com/embed/Y_5amab3kMQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <hr/>
 
@@ -35,25 +35,25 @@ Using the UMIRobot and parts designed in this class.
 
 #### Max-Mini Rex
 
-<iframe width="250" height="200" src="https://www.youtube.com/embed/T65DRtAJ47Y"></iframe>
+<iframe width="200" height="110" src="https://www.youtube.com/embed/T65DRtAJ47Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 #### Curious Lionhead
 
-<iframe width="250" height="200" src="https://www.youtube.com/embed/o1naGEtkIeQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="200" height="110" src="https://www.youtube.com/embed/o1naGEtkIeQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### 2021/Autumn Videos
 
 #### Inteligent Calicos 
 
-<iframe width="250" height="200" src="https://www.youtube.com/embed/CfaNs1w4wMY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="200" height="110" src="https://www.youtube.com/embed/CfaNs1w4wMY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 #### Robotic Tabbys 
 
-<iframe width="250" height="200" src="https://www.youtube.com/embed/zix5uXahhFg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="200" height="110" src="https://www.youtube.com/embed/zix5uXahhFg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 #### Curious Chaussies 
 
-<iframe width="250" height="200" src="https://www.youtube.com/embed/dfVOAAa_DoQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="200" height="110" src="https://www.youtube.com/embed/dfVOAAa_DoQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <hr/>
 
