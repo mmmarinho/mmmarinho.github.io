@@ -19,7 +19,7 @@ The (under)graduate level students are divided into groups and have to design a 
 An intercontinental teleoperation experiment between Japan and Bangladesh.
 Using the UMIRobot and parts designed in this class.
 
-<iframe width="200" height="110" src="https://www.youtube.com/embed/Y_5amab3kMQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[![IMAGE ALT TEXT](http://img.youtube.com/vi/Y_5amab3kMQ/0.jpg)](http://www.youtube.com/watch?v=Y_5amab3kMQ "Video Title")
 
 <hr/>
 
@@ -35,25 +35,25 @@ Using the UMIRobot and parts designed in this class.
 
 #### Max-Mini Rex
 
-<iframe width="200" height="110" src="https://www.youtube.com/embed/T65DRtAJ47Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[![IMAGE ALT TEXT](http://img.youtube.com/vi/T65DRtAJ47Y/0.jpg)](http://www.youtube.com/watch?v=T65DRtAJ47Y "Video Title")
 
 #### Curious Lionhead
 
-<iframe width="200" height="110" src="https://www.youtube.com/embed/o1naGEtkIeQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[![IMAGE ALT TEXT](http://img.youtube.com/vi/o1naGEtkIeQ/0.jpg)](http://www.youtube.com/watch?v=o1naGEtkIeQ "Video Title")
 
 ### 2021/Autumn Videos
 
 #### Inteligent Calicos 
 
-<iframe width="200" height="110" src="https://www.youtube.com/embed/CfaNs1w4wMY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[![IMAGE ALT TEXT](http://img.youtube.com/vi/CfaNs1w4wMY/0.jpg)](http://www.youtube.com/watch?v=CfaNs1w4wMY "Video Title")
 
 #### Robotic Tabbys 
 
-<iframe width="200" height="110" src="https://www.youtube.com/embed/zix5uXahhFg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[![IMAGE ALT TEXT](http://img.youtube.com/vi/zix5uXahhFg/0.jpg)](http://www.youtube.com/watch?v=zix5uXahhFg "Video Title")
 
 #### Curious Chaussies 
 
-<iframe width="200" height="110" src="https://www.youtube.com/embed/dfVOAAa_DoQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[![IMAGE ALT TEXT](http://img.youtube.com/vi/dfVOAAa_DoQ/0.jpg)](http://www.youtube.com/watch?v=dfVOAAa_DoQ "Video Title")
 
 <hr/>
 
