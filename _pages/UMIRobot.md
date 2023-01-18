@@ -10,6 +10,8 @@ author_profile: true
 The UMIRobot is a open {hardware, software} (5+1) robotic platform developed for online and hybrid learning courses.
 The (under)graduate level students are divided into groups and have to design a gripper and a master control.
 
+Detailed information is available in the [ArXiv preprint](https://arxiv.org/abs/2301.06668).
+
 <img style='border:1px solid #000000' src="/images/umirobot_raytrace_front_withtext.png" width="250" height="200"> <img style='border:1px solid #000000' src="/images/umirobot_raytrace_up_withtext.png" width="250" height="200">
   
 <hr/>
