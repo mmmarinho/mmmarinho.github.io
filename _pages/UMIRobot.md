@@ -29,6 +29,7 @@ Using the UMIRobot and parts designed in this class.
 
 |Year/Semester|Best gripper|Best master|Smoothest teleoperation|Best presentation|
 |---|---|---|---|---|
+|2022/Autumn|Mechanical Mustangs|Sleepy-Swiss Warmblood|Running Mustangs|Sleepy-Swiss Warmblood|
 |2022/Spring|Max-Mini Rex|Max-Mini Rex|Max-Mini Rex|Curious Lionhead|
 |2021/Autumn|Inteligent Calicos|Inteligent Calicos|Inteligent Calicos|Curious Chaussies|
 |2021/Spring|Unparalleled Shibas|Beady Beagles|Unparalleled Shibas|Unparalleled Shibas|
