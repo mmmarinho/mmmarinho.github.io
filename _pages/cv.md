@@ -49,26 +49,29 @@ Awards
 Research grants
 ======
 
+:large_blue_circle: Ongoing
+:black_circle: Finished
+
 **Principal investigator**
 
-|<img width=20/>|     |     |       |     |
-| ---           | --- | --- | :---: | --- |
-|<img style='border:1px solid #000000' src="/images/japan_flag.png" width="20" height="15">|2020 --- Today | Cooperative Research Agreement | --- | University of Tokyo-Osaka University-Toshiba |
-|<img style='border:1px solid #000000' src="/images/japan_flag.png" width="20" height="15">|2019 --- 2021  | Grant-in-Aid for Early-Career Scientists <br>科研費若手 |[19K14935](https://kaken.nii.ac.jp/en/grant/KAKENHI-PROJECT-19K14935/) | Japan Society for the Promotion of Science <br>日本学術振興会 |
+|     |<img width=20/>|     |     |       |     |
+| --- | ---           | --- | --- | :---: | --- |
+|:large_blue_circle:|<img style='border:1px solid #000000' src="/images/japan_flag.png" width="20" height="15">|2020 --- Today | Cooperative Research Agreement | --- | University of Tokyo-Osaka University-Toshiba |
+|:black_circle:|<img style='border:1px solid #000000' src="/images/japan_flag.png" width="20" height="15">|2019 --- 2023  | Grant-in-Aid for Early-Career Scientists <br>科研費若手 |[19K14935](https://kaken.nii.ac.jp/en/grant/KAKENHI-PROJECT-19K14935/) | Japan Society for the Promotion of Science <br>日本学術振興会 |
 
 **Co-investigator**
 
-|<img width=20/>|     |     |       |     |
-| ---           | --- | --- | :---: | --- |
-|<img style='border:1px solid #000000' src="/images/japan_flag.png" width="20" height="15">|2020 --- 2025 | Grant-in-Aid for Scientific Research (A) <br>科研費基盤研究（A) | [20H00227](https://kaken.nii.ac.jp/en/grant/KAKENHI-PROJECT-20H00227/) | Japan Society for the Promotion of Science　<br>日本学術振興会 |
-|<img style='border:1px solid #000000' src="/images/japan_flag.png" width="20" height="15">|2019 --- 2023 | Grant-in-Aid for Challenging Research (Pioneering) <br>科研費挑戦的（開拓) |[20K20489](https://kaken.nii.ac.jp/en/grant/KAKENHI-PROJECT-20K20489/) | Japan Society for the Promotion of Science　<br>日本学術振興会 |
-|<img style='border:1px solid #000000' src="/images/japan_flag.png" width="20" height="15">|2019 | Cooperative Research Agreement | --- | University of Tokyo-Osaka University-Toshiba |
+|     |<img width=20/>|     |     |       |     |
+| --- | ---           | --- | --- | :---: | --- |
+|:large_blue_circle:|<img style='border:1px solid #000000' src="/images/japan_flag.png" width="20" height="15">|2020 --- 2025 | Grant-in-Aid for Scientific Research (A) <br>科研費基盤研究（A) | [20H00227](https://kaken.nii.ac.jp/en/grant/KAKENHI-PROJECT-20H00227/) | Japan Society for the Promotion of Science　<br>日本学術振興会 |
+|:large_blue_circle:|<img style='border:1px solid #000000' src="/images/japan_flag.png" width="20" height="15">|2019 --- 2024 | Grant-in-Aid for Challenging Research (Pioneering) <br>科研費挑戦的（開拓) |[20K20489](https://kaken.nii.ac.jp/en/grant/KAKENHI-PROJECT-20K20489/) | Japan Society for the Promotion of Science　<br>日本学術振興会 |
+|:black_circle:|<img style='border:1px solid #000000' src="/images/japan_flag.png" width="20" height="15">|2019 | Cooperative Research Agreement | --- | University of Tokyo-Osaka University-Toshiba |
 
 **Participant**
 
-|<img width=20/>|     |     |       |     |
-| ---           | --- | --- | :---: | --- |
-|<img style='border:1px solid #000000' src="/images/japan_flag.png" width="20" height="15">|2020 --- Today | Co-evolution of Human and AI-Robots to Expand Science Frontiers <br>人とAIロボットの創造的共進化によるサイエンス開拓 | [JPMJPS2033-09](https://sites.google.com/g.ecc.u-tokyo.ac.jp/moonshot-ai-science-robot/) | Japan Science and Technology Agency　<br>科学技術振興機構 |
+|     |<img width=20/>|     |     |       |     |
+| --- | ---           | --- | --- | :---: | --- |
+|:large_blue_circle:|<img style='border:1px solid #000000' src="/images/japan_flag.png" width="20" height="15">|2020 --- Today | Co-evolution of Human and AI-Robots to Expand Science Frontiers <br>人とAIロボットの創造的共進化によるサイエンス開拓 | [JPMJPS2033-09](https://sites.google.com/g.ecc.u-tokyo.ac.jp/moonshot-ai-science-robot/) | Japan Science and Technology Agency　<br>科学技術振興機構 |
 
 
 Scholarships and travel grants
