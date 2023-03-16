@@ -11,7 +11,7 @@ author_profile: true
 
 |Institution|Year|Link|Title|
 |---|---|---|---|
-|<img style='border:1px solid #000000' src="/images/utokyo.png" width="20" height="20">|2021S --- 2022A|[ICP S/A II](https://mmmarinho.github.io/teaching/FEN-CO3982S3)| *Teleoperated Robots: The Basics of Design, Fabrication, and Control* <br> (Special) International Collaborative Pratice S/A II <br> 国際連携（特別）演習　S・A II|
+|<img src="/images/utokyo.png" width="20" height="20"> / <img style='border:1px solid #000000' src="/images/japan_flag.png" width="20" height="15"> |2021S --- 2022A|[ICP S/A II](https://mmmarinho.github.io/teaching/FEN-CO3982S3)| *Teleoperated Robots: The Basics of Design, Fabrication, and Control* <br> (Special) International Collaborative Pratice S/A II <br> 国際連携（特別）演習　S・A II|
 
 ## Tutorials etc
 
