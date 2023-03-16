@@ -9,9 +9,9 @@ author_profile: true
 
 ## Coursework
 
-|Year|Link|Title|
-|---|---|---|
-|2021S --- 2022A|[ICP S/A II](https://mmmarinho.github.io/teaching/FEN-CO3982S3)| *Teleoperated Robots: The Basics of Design, Fabrication, and Control* <br> (Special) International Collaborative Pratice S/A II <br> 国際連携（特別）演習　S・A II|
+|Institution|Year|Link|Title|
+|---|---|---|---|
+|<img style='border:1px solid #000000' src="/images/utokyo.png" width="20" height="20">|2021S --- 2022A|[ICP S/A II](https://mmmarinho.github.io/teaching/FEN-CO3982S3)| *Teleoperated Robots: The Basics of Design, Fabrication, and Control* <br> (Special) International Collaborative Pratice S/A II <br> 国際連携（特別）演習　S・A II|
 
 ## Tutorials etc
 
