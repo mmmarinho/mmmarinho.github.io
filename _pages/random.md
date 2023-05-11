@@ -71,6 +71,14 @@ for d in */ ; do
     cd ..
 done
 ```
+## Finding all files containing a string
+
+- https://stackoverflow.com/questions/16956810/how-to-find-all-files-containing-specific-text-string-on-linux
+
+```sh
+grep -rnw '/path/to/somewhere/' -e 'pattern'
+```
+
 
 ## Example tab using HTML and Javascript
 
