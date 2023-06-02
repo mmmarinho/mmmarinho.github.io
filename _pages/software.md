@@ -16,9 +16,9 @@ author_profile: true
 
 # Libraries
 
-|Title|License|Link|
-|-------|----|-----|
-|DQ Robotics|LGPL|[Code on Github](https://github.com/dqrobotics/)|
-|SmartArmStack|LGPL/ResearchOnly|[Code on Github](https://github.com/smartarmstack)|
-|AIRobotSciencePlatform|LGPL|[Code on Github](https://github.com/AISciencePlatform)|
-|DQ Robotics|LGPL|[Code on Github](https://github.com/dqrobotics/)|
+|Title|Decription|License|Link|
+|-----|----------|-------|----|
+|DQ Robotics|Dual Quaternion algebra for robot modeling and control | LGPL|[Code on Github](https://github.com/dqrobotics/)|
+|SmartArmStack|Modular robot control for ROS 1 and ROS 2 | LGPL/ResearchOnly|[Code on Github](https://github.com/smartarmstack)|
+|AIRobotSciencePlatform|Control and simulation code for the AI robot platform | LGPL|[Code on Github](https://github.com/AISciencePlatform)|
+
