@@ -39,7 +39,8 @@ Talks
 
 |<img width=20/>|     |     |     |     |
 | --- | --- | --- | --- | --- |
-|<img src="/images/flag_switzerland.png" width="20" height="15">|2022/12 | Keynote Speaker | (Semi)Autonomous Robots for Medicine, Space, and Scientific Discovery | ‘The lab of the future, today’ – Laboratory Automation Workshop 2022 EPFL |
+|<img src="/images/uk_flag.png" width="20" height="15">|2023/06 | Keynote Speaker | Using Dual Quaternion Algebra for Constrained Applications in Robots for Surgery, Science, and Space  | Geometric Representations -- ICRA'23 |
+|<img src="/images/flag_switzerland.png" width="20" height="15">|2022/12 | Keynote Speaker | (Semi)Autonomous Robots for Medicine, Space, and Scientific Discovery | ‘The lab of the future, today’ -- Laboratory Automation Workshop 2022 EPFL |
 |<img style='border:1px solid #000000' src="/images/japan_flag.png" width="20" height="15">|2022/07 | Keynote Speaker | Teleoperated Robots for Medicine and Science <br> 医療・科学における遠隔操作ロボット | The 34th Annual Meeting of Japanese Society for Skull Base Surgery <br> 第34回日本頭蓋底外科学会 |
 
 
