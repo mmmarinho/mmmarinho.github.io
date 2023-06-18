@@ -12,6 +12,8 @@ I am an assistant professor at the Department of Mechanical Engineering, the Uni
 
 I have a B.Sc. (2012) in Mechatronics Engineering and M.Sc. (2014) in Electronic Systems and Automation Engineering from the [University of Brasilia](http://international.unb.br/). I obtained a Ph.D. (2018) in Mechanical Engineering from the [University of Tokyo](https://www.u-tokyo.ac.jp/en/index.html).
 
+<!--
+
 Currently, my [research deliverables](https://mmmarinho.github.io/publications/) are mostly in the field of teleoperated and/or (semi-)automomous robots applied to [medicine](https://www.youtube.com/watch?v=dayuW47PKKc&list=TLGGLlmonU1w7aAyMjA5MjAyMQ). Notably
 - Pediatric: [ICRA19](http://doi.org/10.1109/ICRA.2019.8794363), [RAL20](http://doi.org/10.1109/LRA.2019.2963642), [T-MRB21](http://doi.org/https://doi.org/10.1109/TMRB.2021.3049878), and [JMRCAS23](http://doi.org/10.1002/rcs.2476).
 - Ophtamology: [T-MRB22](http://doi.org/10.1109/TMRB.2022.3147033).
@@ -22,6 +24,8 @@ Those implementations are based on a rigourous constrained kinematic robot contr
 - Software implementation and system integration: [RAM21](http://doi.org/10.1109/MRA.2020.2997920) and [IJMRCAS20](http://doi.org/10.1002/rcs.2053).
 
 I also have a few works in image processing (mostly for robotics) (e.g. [IJCARS20](http://doi.org/10.1007/s11548-020-02185-0), [ICRA20](http://doi.org/10.1109/ICRA40945.2020.9196779), [IROS21](http://doi.org/10.1109/IROS51168.2021.9636404)).
+
+-->
 
 <hr>
 ### Paper-related Videos
