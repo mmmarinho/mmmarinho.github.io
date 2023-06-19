@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an assistant professor at the Department of Mechanical Engineering, the University of Tokyo, Tokyo, Japan. I am currently a member of the Harada Laboratory (formely [Mitsuishi-Harada laboratory](http://www.nml.t.u-tokyo.ac.jp/en/index-e.html)).
+I am an assistant professor at the Department of Mechanical Engineering, the University of Tokyo, Tokyo, Japan. I am currently a member of the [Harada Laboratory](https://sites.google.com/g.ecc.u-tokyo.ac.jp/cdbim-medical-devices) (formely [Mitsuishi-Harada laboratory](http://www.nml.t.u-tokyo.ac.jp/en/index-e.html)).
 
 I have a B.Sc. (2012) in Mechatronics Engineering and M.Sc. (2014) in Electronic Systems and Automation Engineering from the [University of Brasilia](http://international.unb.br/). I obtained a Ph.D. (2018) in Mechanical Engineering from the [University of Tokyo](https://www.u-tokyo.ac.jp/en/index.html).
 
