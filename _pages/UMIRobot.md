@@ -8,23 +8,33 @@ author_profile: true
 {% include base_path %}
 
 The UMIRobot is an open {hardware, software} (5+1) robotic platform developed for online and hybrid learning courses.
-The (under)graduate level students are divided into groups and have to design a gripper and a master control.
+The (under)graduate level students are divided into groups and must design a gripper and a master control.
 
-<span style="color:red">**The [paper](https://arxiv.org/abs/2301.06668) about the UMIRobot will be presented at the 2023 IEEE/RSJ International Conference on Intelligent Robots and Systems in Detroit**</span>
+<span style="color: red">**The [paper](https://arxiv.org/abs/2301.06668) about the UMIRobot will be presented at the 2023 IEEE/RSJ International Conference on Intelligent Robots and Systems in Detroit**</span>
 
 <p align="center">
-<img style='border:1px solid #000000;display:block; margin-left:auto; margin-right:auto' src="/images/umirobot_raytrace_front_withtext.png" width="250" height="200"> <img style='border:1px solid #000000' src="/images/umirobot_raytrace_up_withtext.png" width="250" height="200">
+<img style='border:1px solid #000000;' src="/images/umirobot_real.jpg" width="430" height="358">
 </p>
-
-
 
 ## Mechanical 
 
 The 3D-printer-friendly files of the UMIRobot, along with instructions, are shared over at [Thingiverse](https://www.thingiverse.com/thing:4797804).
 
-Sample master interface CAD files (by Jiawei Zhao): [link](https://u.pcloud.link/publink/show?code=kZVIbUVZfSeLtjxWKyfsKi4YCDSIYBjBile7).
+<p align="center">
+<img style='border:1px solid #000000;' src="/images/umirobot_raytrace_front_withtext.png" width="250" height="200">
+</p>
 
-Sample gripper CAD files (by Jiawei Zhao): [link](https://u.pcloud.link/publink/show?code=kZyIbUVZcrfG3uJof3XQ1oJOyNad3jxgylG7).
+Sample master interface CAD files (by Jiawei Zhao) [(link)](https://u.pcloud.link/publink/show?code=kZVIbUVZfSeLtjxWKyfsKi4YCDSIYBjBile7).
+
+<p align="center">
+<img style='border:1px solid #000000;' src="/images/umirobot_master.png" width="280" height="167">
+</p>
+
+Sample gripper CAD files (by Jiawei Zhao) [(link)](https://u.pcloud.link/publink/show?code=kZyIbUVZcrfG3uJof3XQ1oJOyNad3jxgylG7).
+
+<p align="center">
+<img style='border:1px solid #000000;' src="/images/umirobot_gripper.png" width="370" height="180">
+</p>
 
 <hr/>
 
