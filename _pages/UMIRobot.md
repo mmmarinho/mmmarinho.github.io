@@ -10,9 +10,13 @@ author_profile: true
 The UMIRobot is an open {hardware, software} (5+1) robotic platform developed for online and hybrid learning courses.
 The (under)graduate level students are divided into groups and have to design a gripper and a master control.
 
-**The [paper](https://arxiv.org/abs/2301.06668) about the UMIRobot will be presented at the 2023 IEEE/RSJ International Conference on Intelligent Robots and Systems in Detroit**
+<span style="color:red">**The [paper](https://arxiv.org/abs/2301.06668) about the UMIRobot will be presented at the 2023 IEEE/RSJ International Conference on Intelligent Robots and Systems in Detroit**</span>
 
-<img style='border:1px solid #000000' src="/images/umirobot_raytrace_front_withtext.png" width="250" height="200"> <img style='border:1px solid #000000' src="/images/umirobot_raytrace_up_withtext.png" width="250" height="200">
+<p align="center">
+<img style='border:1px solid #000000;display:block; margin-left:auto; margin-right:auto' src="/images/umirobot_raytrace_front_withtext.png" width="250" height="200"> <img style='border:1px solid #000000' src="/images/umirobot_raytrace_up_withtext.png" width="250" height="200">
+</p>
+
+
 
 ## Mechanical 
 
@@ -35,9 +39,11 @@ There are two main software components related to the UMIRobot.
 
 ## Electronic
 
+<p align="center">
 <a href="/images/umirobot_pcb_schematics.pdf" class="box">
 <img style='border:1px solid #000000' src="/images/umirobot_pcb_schematics.png" width="480" height="300">
 </a>
+</p>
 
 <hr/>
 
@@ -46,7 +52,11 @@ There are two main software components related to the UMIRobot.
 An intercontinental teleoperation experiment between Japan and Bangladesh.
 Using the UMIRobot and parts designed in this class.
 
-[![IMAGE ALT TEXT](http://img.youtube.com/vi/Y_5amab3kMQ/0.jpg)](http://www.youtube.com/watch?v=Y_5amab3kMQ "Video Title")
+<p align="center">
+<a href="http://www.youtube.com/watch?v=Y_5amab3kMQ" class="box">
+<img style='border:1px solid #000000' src="http://img.youtube.com/vi/Y_5amab3kMQ/0.jpg" width="480" height="300">
+</a>
+</p>
 
 <hr/>
 
@@ -61,7 +71,11 @@ Using the UMIRobot and parts designed in this class.
 
 ### Teleoperation Challenge Videos
 
-[![IMAGE ALT TEXT](http://img.youtube.com/vi/dfVOAAa_DoQ/0.jpg)](http://www.youtube.com/playlist?list=PLfnnpBCwI_l9mwnWENHN0BKCcLytz4GL7)
+<p align="center">
+<a href="http://www.youtube.com/playlist?list=PLfnnpBCwI_l9mwnWENHN0BKCcLytz4GL7" class="box">
+<img style='border:1px solid #000000' src="http://img.youtube.com/vi/dfVOAAa_DoQ/0.jpg" width="480" height="300">
+</a>
+</p>
 
 <hr/>
 
