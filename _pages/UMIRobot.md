@@ -18,6 +18,8 @@ The (under)graduate level students are divided into groups and must design a gri
 
 ## Mechanical 
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/78IVNJ8RL_8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 The 3D-printer-friendly files of the UMIRobot, along with instructions, are shared over at [Thingiverse](https://www.thingiverse.com/thing:4797804).
 
 <p align="center">
@@ -39,6 +41,8 @@ Sample gripper CAD files (by Jiawei Zhao) [(link)](https://u.pcloud.link/publink
 <hr/>
 
 ## Software
+
+![175437004-3428715e-1da5-4f81-aee8-91eb4db01af7](https://github.com/mmmarinho/mmmarinho.github.io/assets/46012516/86734124-d1f4-4f29-9b3d-ab79ff3115a8)
 
 There are two main software components related to the UMIRobot. 
 
