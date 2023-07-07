@@ -26,13 +26,13 @@ The 3D-printer-friendly files of the UMIRobot, along with instructions, are shar
 <img style='border:1px solid #000000;' src="/images/umirobot_raytrace_front_withtext.png" width="250" height="200">
 </p>
 
-Sample master interface CAD files (by Jiawei Zhao) [(link)](https://u.pcloud.link/publink/show?code=kZVIbUVZfSeLtjxWKyfsKi4YCDSIYBjBile7).
+Sample master interface CAD files (by Jiawei Zhao) [(link)](https://u.pcloud.link/publink/show?code=kZVIbUVZfSeLtjxWKyfsKi4YCDSIYBjBile7). Latest model available at [thingiverse](https://www.thingiverse.com/thing:6107851).
 
 <p align="center">
 <img style='border:1px solid #000000;' src="/images/umirobot_master.png" width="280" height="167">
 </p>
 
-Sample gripper CAD files (by Jiawei Zhao) [(link)](https://u.pcloud.link/publink/show?code=kZyIbUVZcrfG3uJof3XQ1oJOyNad3jxgylG7).
+Sample gripper CAD files (by Jiawei Zhao) [(link)](https://u.pcloud.link/publink/show?code=kZyIbUVZcrfG3uJof3XQ1oJOyNad3jxgylG7). Latest model available at [thingiverse](https://www.thingiverse.com/thing:6107830).
 
 <p align="center">
 <img style='border:1px solid #000000;' src="/images/umirobot_gripper.png" width="370" height="180">
