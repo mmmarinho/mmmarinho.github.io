@@ -93,6 +93,24 @@ Scholarships and travel grants
 |<img src="/images/brazil_flag.png" width="20" height="15">|2012 --- 2014 | Master's Scholarship | Coodination of Improvement of Higher Education Personnel (CNPq) |
 |<img src="/images/brazil_flag.png" width="20" height="15">|2009 --- 2010 | Undergraduate Scholarship | Coodination of Improvement of Higher Education Personnel (CNPq) |
 
+Graduate (co-)supervisions
+======
+
+UTokyo
+------
+
+Phd:
+- (ongoing) Hung-Ching Lin
+- (ongoing) Enduo Zhao
+- Yuki Koyama, now at Honda
+
+Masters:
+- (ongoing) Jiawei Zhao
+- Hung-Ching Lin, now at UT for Phd.
+- Risa Oikawa, now at Canon Medical.
+- Hisashi Ishida, now at JHU.
+- Masakazu Yoshimura, now at Sony.
+
 Reviews
 ======
 Please check my [Publons profile](https://publons.com/researcher/1488056/murilo-marques-marinho/) for all my verified work as a reviewer.
