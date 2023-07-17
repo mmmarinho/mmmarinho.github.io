@@ -102,14 +102,14 @@ UTokyo
 Phd:
 - (ongoing) Hung-Ching Lin
 - (ongoing) Enduo Zhao
-- Yuki Koyama, now at Honda
+- Yuki Koyama, went to Honda
 
 Masters:
 - (ongoing) Jiawei Zhao
-- Hung-Ching Lin, now at UT for Phd.
-- Risa Oikawa, now at Canon Medical.
-- Hisashi Ishida, now at JHU.
-- Masakazu Yoshimura, now at Sony.
+- Hung-Ching Lin, went to UT for Phd.
+- Risa Oikawa, went to Canon Medical.
+- Hisashi Ishida, went to JHU.
+- Masakazu Yoshimura, went to Sony.
 
 Reviews
 ======
