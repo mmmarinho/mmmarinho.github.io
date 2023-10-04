@@ -100,12 +100,12 @@ Graduate (co-)supervisions
 UTokyo
 ------
 
-Phd:
+PhD:
 - (ongoing) Hung-Ching Lin
 - (ongoing) Enduo Zhao
 - Yuki Koyama, went to Honda
 
-Masters:
+MS:
 - (ongoing) Jiawei Zhao
 - Hung-Ching Lin, went to UT for Phd.
 - Risa Oikawa, went to Canon Medical.
@@ -119,7 +119,7 @@ Please check my [Publons profile](https://publons.com/researcher/1488056/murilo-
 Memberships 
 ======
 * IEEE Member
-* JSME Member （日本機械学会正員）
+<!-- * JSME Member （日本機械学会正員）-->
 
 Languages 
 ======
