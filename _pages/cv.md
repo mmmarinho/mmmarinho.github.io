@@ -49,6 +49,7 @@ Awards
 
 |<img width=20/>|     |     |     |
 | --- | --- | --- | --- |
+|<img src="/images/usa_flag.png" width="20" height="15">|2023| Best Application Paper Award | 2023 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS'23)| 
 |<img style='border:1px solid #000000' src="/images/japan_flag.png" width="20" height="15">|2021 | Online/Hybrid class good practices <br> オンライン授業・ハイブリッド授業のグッドプラクティス | The University of Tokyo Dean's commendation <br> 東京大学総長表彰 |
 |<img src="/images/uk_flag.png" width="20" height="15">|2019 | Overall Winner Award | Surgical Robot Challenge |
 |<img src="/images/uk_flag.png" width="20" height="15">|2019 | Best Innovation Award | Surgical Robot Challenge |
