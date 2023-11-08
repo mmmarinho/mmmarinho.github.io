@@ -24,15 +24,15 @@ Work experience
 |<img style='border:1px solid #000000' src="/images/japan_flag.png" width="20" height="15">|2018/10 --- 2019/03| Postdoctoral Researcher <br>特任研究員| The University of Tokyo <br> 東京大学|
 
 Education 
-======
+=========
 
 |<img width=20/>|     |     |     |
 | --- | --- | --- | --- |
 |<img style='border:1px solid #000000' src="/images/japan_flag.png" width="20" height="15">|2018 |**Ph.D. in Mechanical Engineering** <br> 博士（工）| **The University of Tokyo** <br> 東京大学|
 |<img src="/images/usa_flag.png" width="20" height="15">|2018/02 --- 2018/03| Graduate Visiting Scholar | Johns Hopkins University |
 |<img style='border:1px solid #000000' src="/images/japan_flag.png" width="20" height="15">|2015/04 --- 2015/09| Graduate Research Student <br>研究生| The University of Tokyo <br> 東京大学|
-|<img src="/images/brazil_flag.png" width="20" height="15">|2014| **M.Sc. in Electronic Systems and Automation Engineering** <br> Mestre em Engenharia de Sistemas Eletrônicos e de Automação | **University of Brasilia** <br> Universidade de Brasilia|
-|<img src="/images/brazil_flag.png" width="20" height="15">|2012| **B.Sc. in Mechatronics Engineering** <br> Bacharel em Engenharia Mecatrônica | **University of Brasilia** <br> Universidade de Brasilia|
+|<img src="/images/brazil_flag.png" width="20" height="15">|2014| **MS in Electronic Systems and Automation Engineering** <br> Mestre em Engenharia de Sistemas Eletrônicos e de Automação | **University of Brasilia** <br> Universidade de Brasilia|
+|<img src="/images/brazil_flag.png" width="20" height="15">|2012| **BS in Mechatronics Engineering** <br> Bacharel em Engenharia Mecatrônica | **University of Brasilia** <br> Universidade de Brasilia|
 
 Talks
 =====
@@ -45,18 +45,18 @@ Talks
 
 
 Awards
-=====
+======
 
 |<img width=20/>|     |     |     |
 | --- | --- | --- | --- |
 |<img src="/images/usa_flag.png" width="20" height="15">|2023| Best Application Paper Award | 2023 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS'23)| 
-|<img style='border:1px solid #000000' src="/images/japan_flag.png" width="20" height="15">|2021 | Online/Hybrid class good practices <br> オンライン授業・ハイブリッド授業のグッドプラクティス | The University of Tokyo Dean's commendation <br> 東京大学総長表彰 |
+|<img style='border:1px solid #000000' src="/images/japan_flag.png" width="20" height="15">|2021 |  Dean's commendation on Online/Hybrid class good practices <br> オンライン授業・ハイブリッド授業のグッドプラクティス 東京大学総長表彰 | The University of Tokyo <br> 東京大学 |
 |<img src="/images/uk_flag.png" width="20" height="15">|2019 | Overall Winner Award | Surgical Robot Challenge |
 |<img src="/images/uk_flag.png" width="20" height="15">|2019 | Best Innovation Award | Surgical Robot Challenge |
 |<img src="/images/germany_flag.png" width="20" height="15">|2017 | Best paper runner-up award | ACM International Workshop on Sensor-based Activity Recognition and Interaction |
 
 Research grants
-======
+===============
 
 <img src="/images/untitled_blue.png" width="20" height="20"> Active
 
@@ -65,7 +65,7 @@ Research grants
 |     |<img width=20/>|     |     |       |     |
 | --- | ---           | --- | --- | :---: | --- |
 |<img src="/images/untitled_blue.png" width="20" height="20">|<img style='border:1px solid #000000' src="/images/japan_flag.png" width="20" height="15">|2023 --- 2026  | Grant-in-Aid for Early-Career Scientists <br>科研費若手 | [23K13287](https://kaken.nii.ac.jp/en/grant/KAKENHI-PROJECT-23K13287/) | Japan Society for the Promotion of Science <br>日本学術振興会 |
-|<img src="/images/untitled_blue.png" width="20" height="20">|<img style='border:1px solid #000000' src="/images/japan_flag.png" width="20" height="15">|2020 --- Today | Cooperative Research Agreement | --- | University of Tokyo-Osaka University-Toshiba |
+||<img style='border:1px solid #000000' src="/images/japan_flag.png" width="20" height="15">|2020 --- 2023 | Cooperative Research Agreement | --- | University of Tokyo-Osaka University-Toshiba |
 ||<img style='border:1px solid #000000' src="/images/japan_flag.png" width="20" height="15">|2019 --- 2023  | Grant-in-Aid for Early-Career Scientists <br>科研費若手 |[19K14935](https://kaken.nii.ac.jp/en/grant/KAKENHI-PROJECT-19K14935/) | Japan Society for the Promotion of Science <br>日本学術振興会 |
 
 **Co-investigator**
@@ -95,26 +95,31 @@ Scholarships and travel grants
 |<img src="/images/brazil_flag.png" width="20" height="15">|2009 --- 2010 | Undergraduate Scholarship | Coodination of Improvement of Higher Education Personnel (CNPq) |
 
 Graduate (co-)supervisions
-======
+==========================
 
 UTokyo
 ------
 
-PhD:
+**PostDoc**
+- (ongoing) Juan José Quiroz Omaña ([RAM24](https://arxiv.org/abs/2210.11877))
+
+**PhD**
 - (ongoing) Hung-Ching Lin
-- (ongoing) Enduo Zhao
-- Yuki Koyama, went to Honda
+- (ongoing) Enduo Zhao ([IROS23](https://arxiv.org/pdf/2303.12265))
+- Yuki Koyama ([T-MRB22](http://doi.org/10.1109/TMRB.2022.3147033) and [ICRA23](http://doi.org/10.1109/ICRA48891.2023.10160795))
 
-MS:
-- (ongoing) Jiawei Zhao
-- Hung-Ching Lin, went to UT for Phd.
-- Risa Oikawa, went to Canon Medical.
-- Hisashi Ishida, went to JHU.
-- Masakazu Yoshimura, went to Sony.
+**MS**
+- Jiawei Zhao
+- Hung-Ching Lin
+- Risa Oikawa ([JMRCAS23](http://doi.org/10.1002/rcs.2476))
+- Hisashi Ishida ([RAL20](http://doi.org/10.1109/LRA.2019.2963642))
+- Masakazu Yoshimura ([ICRA20](http://doi.org/10.1109/ICRA40945.2020.9196779) and [IROS21](http://doi.org/10.1109/IROS51168.2021.9636404))
 
+<!--
 Reviews
 ======
-Please check my [Publons profile](https://publons.com/researcher/1488056/murilo-marques-marinho/) for all my verified work as a reviewer.
+(Publons isn't a thing anymore??) Please check my [Publons profile](https://publons.com/researcher/1488056/murilo-marques-marinho/) for all my verified work as a reviewer.
+-->
 
 Memberships 
 ======
