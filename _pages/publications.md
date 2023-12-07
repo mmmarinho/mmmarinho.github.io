@@ -19,4 +19,4 @@ author_profile: true
 
 </style>
 
-<script src="https://bibbase.org/show?bib=https://raw.githubusercontent.com/mmmarinho/mmmarinho.github.io/master/files/murilomarinho.bib&jsonp=1&group0=custom_type&css=mmmarinho.github.io/_sass/_bibbase.css&folding=0&nocache=1"></script> 
+<script src="https://bibbase.org/show?bib=https://raw.githubusercontent.com/mmmarinho/mmmarinho.github.io/master/files/murilomarinho.bib&jsonp=1&css=mmmarinho.github.io/_sass/_bibbase.css&nocache=1"></script> 
