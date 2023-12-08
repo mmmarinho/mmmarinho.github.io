@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Murilo Marques Marinho, Ph.D."
 title_separator          : "-"
 name                     : &name "Murilo Marques Marinho"
-description              : &description "Assistant Professor in Robotics"
+description              : &description "Lecturer in Robotics"
 url                      : https://mmmarinho.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "mmmarinho/mmmarinho.github.io"
@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "Murilo M. Marinho"
   avatar           : "profile.png"
-  bio              : "Roboticist | Assistant Professor（助教）"
-  location         : "Tokyo, Japan"
-  employer         : The University of Tokyo
+  bio              : "Roboticist | Lecturer"
+  location         : "Whitehaven, UK"
+  employer         : The University of Manchester
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=4yzonSsAAAAJ"
   email            : "murilomarinho@ieee.org"
