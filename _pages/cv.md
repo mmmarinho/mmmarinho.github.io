@@ -20,7 +20,8 @@ Work experience
 
 |<img width=20/>|     |     |     |
 | --- | --- | --- | --- |
-|<img style='border:1px solid #000000' src="/images/japan_flag.png" width="20" height="15">|2019/04 --- Today| Assistant Professor <br>助教|The University of Tokyo <br> 東京大学|
+|<img src="/images/uk_flag.png" width="20" height="15">| 2023/12 --- Today | Lecturer | The University of Manchester |
+|<img style='border:1px solid #000000' src="/images/japan_flag.png" width="20" height="15">|2019/04 --- 2023/12| Assistant Professor <br>助教|The University of Tokyo <br> 東京大学|
 |<img style='border:1px solid #000000' src="/images/japan_flag.png" width="20" height="15">|2018/10 --- 2019/03| Postdoctoral Researcher <br>特任研究員| The University of Tokyo <br> 東京大学|
 
 Education 
@@ -64,7 +65,7 @@ Research grants
 
 |     |<img width=20/>|     |     |       |     |
 | --- | ---           | --- | --- | :---: | --- |
-|<img src="/images/untitled_blue.png" width="20" height="20">|<img style='border:1px solid #000000' src="/images/japan_flag.png" width="20" height="15">|2023 --- 2026  | Grant-in-Aid for Early-Career Scientists <br>科研費若手 | [23K13287](https://kaken.nii.ac.jp/en/grant/KAKENHI-PROJECT-23K13287/) | Japan Society for the Promotion of Science <br>日本学術振興会 |
+||<img style='border:1px solid #000000' src="/images/japan_flag.png" width="20" height="15">|2023 --- 2026  | Grant-in-Aid for Early-Career Scientists <br>科研費若手 | [23K13287](https://kaken.nii.ac.jp/en/grant/KAKENHI-PROJECT-23K13287/) | Japan Society for the Promotion of Science <br>日本学術振興会 |
 ||<img style='border:1px solid #000000' src="/images/japan_flag.png" width="20" height="15">|2020 --- 2023 | Cooperative Research Agreement | --- | University of Tokyo-Osaka University-Toshiba |
 ||<img style='border:1px solid #000000' src="/images/japan_flag.png" width="20" height="15">|2019 --- 2023  | Grant-in-Aid for Early-Career Scientists <br>科研費若手 |[19K14935](https://kaken.nii.ac.jp/en/grant/KAKENHI-PROJECT-19K14935/) | Japan Society for the Promotion of Science <br>日本学術振興会 |
 
@@ -72,15 +73,15 @@ Research grants
 
 |     |<img width=20/>|     |     |       |     |
 | --- | ---           | --- | --- | :---: | --- |
-|<img src="/images/untitled_blue.png" width="20" height="20">|<img style='border:1px solid #000000' src="/images/japan_flag.png" width="20" height="15">|2020 --- 2025 | Grant-in-Aid for Scientific Research (A) <br>科研費基盤研究（A) | [20H00227](https://kaken.nii.ac.jp/en/grant/KAKENHI-PROJECT-20H00227/) | Japan Society for the Promotion of Science　<br>日本学術振興会 |
-|<img src="/images/untitled_blue.png" width="20" height="20">|<img style='border:1px solid #000000' src="/images/japan_flag.png" width="20" height="15">|2019 --- 2024 | Grant-in-Aid for Challenging Research (Pioneering) <br>科研費挑戦的（開拓) |[20K20489](https://kaken.nii.ac.jp/en/grant/KAKENHI-PROJECT-20K20489/) | Japan Society for the Promotion of Science　<br>日本学術振興会 |
+||<img style='border:1px solid #000000' src="/images/japan_flag.png" width="20" height="15">|2020 --- 2025 | Grant-in-Aid for Scientific Research (A) <br>科研費基盤研究（A) | [20H00227](https://kaken.nii.ac.jp/en/grant/KAKENHI-PROJECT-20H00227/) | Japan Society for the Promotion of Science　<br>日本学術振興会 |
+||<img style='border:1px solid #000000' src="/images/japan_flag.png" width="20" height="15">|2019 --- 2024 | Grant-in-Aid for Challenging Research (Pioneering) <br>科研費挑戦的（開拓) |[20K20489](https://kaken.nii.ac.jp/en/grant/KAKENHI-PROJECT-20K20489/) | Japan Society for the Promotion of Science　<br>日本学術振興会 |
 ||<img style='border:1px solid #000000' src="/images/japan_flag.png" width="20" height="15">|2019 | Cooperative Research Agreement | --- | University of Tokyo-Osaka University-Toshiba |
 
 **Participant**
 
 |     |<img width=20/>|     |     |       |     |
 | --- | ---           | --- | --- | :---: | --- |
-|<img src="/images/untitled_blue.png" width="20" height="20">|<img style='border:1px solid #000000' src="/images/japan_flag.png" width="20" height="15">|2020 --- Today | Co-evolution of Human and AI-Robots to Expand Science Frontiers <br>人とAIロボットの創造的共進化によるサイエンス開拓 | [JPMJPS2033-09](https://sites.google.com/g.ecc.u-tokyo.ac.jp/moonshot-ai-science-robot/) | Japan Science and Technology Agency　<br>科学技術振興機構 |
+||<img style='border:1px solid #000000' src="/images/japan_flag.png" width="20" height="15">|2020 --- Today | Co-evolution of Human and AI-Robots to Expand Science Frontiers <br>人とAIロボットの創造的共進化によるサイエンス開拓 | [JPMJPS2033-09](https://sites.google.com/g.ecc.u-tokyo.ac.jp/moonshot-ai-science-robot/) | Japan Science and Technology Agency　<br>科学技術振興機構 |
 
 
 Scholarships and travel grants
