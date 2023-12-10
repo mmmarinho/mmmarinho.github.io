@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Lecturer in Robotics with the Department of Electrical and Electronic Engineering, The University of Manchester, Manchester, UK. Previously, I was an assistant professor (助教) at the University of Tokyo.
+I am a Lecturer in Robotics with the Department of Electrical and Electronic Engineering, [The University of Manchester](https://www.manchester.ac.uk), Manchester, UK. Previously, I was an Assistant Professor (助教) at the University of Tokyo.
 
 I have a BS (2012) in Mechatronics Engineering and MS (2014) in Electronic Systems and Automation Engineering from the [University of Brasilia](http://international.unb.br/). I obtained a PhD (2018) in Mechanical Engineering from the [University of Tokyo](https://www.u-tokyo.ac.jp/en/index.html). 
 
