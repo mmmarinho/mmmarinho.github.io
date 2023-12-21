@@ -102,7 +102,7 @@ UTokyo
 ------
 
 **PostDoc**
-- (ongoing) Juan José Quiroz Omaña ([RAM24](https://arxiv.org/abs/2210.11877))
+- Juan José Quiroz Omaña ([RAM24](https://arxiv.org/abs/2210.11877))
 
 **PhD**
 - (ongoing) Hung-Ching Lin
