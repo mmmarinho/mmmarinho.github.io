@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Lecturer in Robotics with the Department of Electrical and Electronic Engineering, [The University of Manchester](https://www.manchester.ac.uk), Manchester, UK. Previously, I was an Assistant Professor (助教) at the University of Tokyo.
+I am a Lecturer in Robotics with the Department of Electrical and Electronic Engineering, [The University of Manchester](https://www.manchester.ac.uk), Manchester, UK. I am currently based at [RAICo1](https://hotrobotics.co.uk/facilities/university-of-manchester-2/). Previously, I was an Assistant Professor (助教) at the University of Tokyo.
 
 I have a BS (2012) in Mechatronics Engineering and MS (2014) in Electronic Systems and Automation Engineering from the [University of Brasilia](http://international.unb.br/). I obtained a PhD (2018) in Mechanical Engineering from the [University of Tokyo](https://www.u-tokyo.ac.jp/en/index.html). 
 
@@ -16,6 +16,7 @@ I have a BS (2012) in Mechatronics Engineering and MS (2014) in Electronic Syste
 
 Open opportunities (if any) for Ph.D and PDRA in my group are posted on my [LinkedIn](https://www.linkedin.com/in/murilo-marques-marinho-046178252/), the [robotics-worldwide mailing list](https://www.lists.kit.edu/sympa/subscribe/robotics-worldwide), and [UoM jobs page](https://www.jobs.manchester.ac.uk/Home/Job) (when applicable).
 <!--I am an assistant professor at the Department of Mechanical Engineering, the University of Tokyo, Tokyo, Japan. I am currently a member of the [Harada Laboratory](https://sites.google.com/g.ecc.u-tokyo.ac.jp/cdbim-medical-devices) (formely [Mitsuishi-Harada laboratory](http://www.nml.t.u-tokyo.ac.jp/en/index-e.html)).-->
+Prospective MSc students must refer to the [MSc Robotics](https://www.manchester.ac.uk/study/masters/courses/list/20967/msc-robotics/#course-profile) and [MSc Robotics with Extended Research](https://www.manchester.ac.uk/study/masters/courses/list/21031/msc-robotics-with-extended-research/).
 
 ### Research 
 
