@@ -10,7 +10,7 @@ author_profile: true
 The UMIRobot is an open {hardware, software} (5+1) robotic platform developed for online and hybrid learning courses.
 The (under)graduate level students are divided into groups and must design a gripper and a master control.
 
-<span style="color: red">**The [paper](https://arxiv.org/abs/2301.06668) about the UMIRobot will be presented at the 2023 IEEE/RSJ International Conference on Intelligent Robots and Systems in Detroit**</span>
+<span style="color: red">**The [paper](http://doi.org/10.1109/IROS55552.2023.10341347) about the UMIRobot was presented at the 2023 IEEE/RSJ International Conference on Intelligent Robots and Systems in Detroit**</span>
 
 <p align="center">
 <img style='border:1px solid #000000;' src="/images/umirobot_real.jpg" width="430" height="358">
