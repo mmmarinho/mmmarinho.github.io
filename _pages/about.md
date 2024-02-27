@@ -25,12 +25,12 @@ My work has been focused on teleoperated and/or (semi-)automomous robots applied
 - Pediatric surgery: [ICRA19](http://doi.org/10.1109/ICRA.2019.8794363), [RAL20](http://doi.org/10.1109/LRA.2019.2963642), [T-MRB21](http://doi.org/https://doi.org/10.1109/TMRB.2021.3049878), and [JMRCAS23](http://doi.org/10.1002/rcs.2476).
 - Eye surgery: [T-MRB22](http://doi.org/10.1109/TMRB.2022.3147033) and [ICRA23](http://doi.org/10.1109/ICRA48891.2023.10160795).
 - Neurosurgery: [T-RO19](http://doi.org/10.1109/TRO.2019.2920078) and [IJMRCAS20](http://doi.org/10.1002/rcs.2053).
-- Scientific exploration: [IROS23](https://arxiv.org/pdf/2303.12265) and [RAM24](https://arxiv.org/abs/2210.11877).
+- Scientific exploration: [IROS23](https://arxiv.org/pdf/2303.12265), [RAM24](https://arxiv.org/abs/2210.11877), and [ICRA24](https://arxiv.org/pdf/2309.10287).
 
 
 Those implementations are based on a rigourous constrained kinematic robot control framework suitable for all sorts of robots.
 - (Adaptive) constrained kinematic control: [T-RO19](http://doi.org/10.1109/TRO.2019.2920078) and [T-RO22](http://doi.org/10.1109/TRO.2022.3181047). 
-- Software implementation and system integration: [RAM24](https://arxiv.org/abs/2210.11877), [RAM21](http://doi.org/10.1109/MRA.2020.2997920), and [IJMRCAS20](http://doi.org/10.1002/rcs.2053).
+- Software implementation and system integration: [IJMRCAS20](http://doi.org/10.1002/rcs.2053), [RAM21](http://doi.org/10.1109/MRA.2020.2997920), and [RAM24](https://arxiv.org/abs/2210.11877).
 
 I also have a few works in *pure* image processing, mostly related to robotics, e.g. [IJCARS20](http://doi.org/10.1007/s11548-020-02185-0), [ICRA20](http://doi.org/10.1109/ICRA40945.2020.9196779), [IROS21](http://doi.org/10.1109/IROS51168.2021.9636404).
 
