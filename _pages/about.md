@@ -14,7 +14,7 @@ I have a BS (2012) in Mechatronics Engineering and MS (2014) in Electronic Syste
 
 ### Opportunities
 
-Open opportunities (if any) for Ph.D and PDRA in my group are posted on my [LinkedIn](https://www.linkedin.com/in/murilo-marques-marinho-046178252/), the [robotics-worldwide mailing list](https://www.lists.kit.edu/sympa/subscribe/robotics-worldwide), and [UoM jobs page](https://www.jobs.manchester.ac.uk/Home/Job) (when applicable).
+Open opportunities (if any) for Ph.D and PDRA in my group are posted on my [LinkedIn](https://www.linkedin.com/in/murilo-marques-marinho-046178252/), the [robotics-worldwide mailing list](https://www.lists.kit.edu/sympa/subscribe/robotics-worldwide), [UoM jobs page](https://www.jobs.manchester.ac.uk/Home/Job), and [FindAPhd](https://www.findaphd.com/phds/department-of-electronic-and-electrical-engineering/?c00jh440&Keywords=marinho) (when applicable).
 
 Prospective MSc students must refer to the [Robotics MSc](https://www.manchester.ac.uk/study/masters/courses/list/20967/msc-robotics/#course-profile) and [Robotics MSc with Extended Research](https://www.manchester.ac.uk/study/masters/courses/list/21031/msc-robotics-with-extended-research/). Bespoke MSc Project Dissertation topics from students in other MScs (e.g. [ACSE MSc](https://www.manchester.ac.uk/study/masters/courses/list/04166/msc-advanced-control-and-systems-engineering/)) will be evaluated on a case by case basis according to university guidelines.
 
