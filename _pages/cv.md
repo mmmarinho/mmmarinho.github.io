@@ -73,6 +73,7 @@ Research grants
 
 |     |<img width=20/>|     |     |       |     |
 | --- | ---           | --- | --- | :---: | --- |
+||<img src="/images/uk_flag.png" width="20" height="15">|2023/09 --- 2024/02 |JUNO: A Network for Japan - UK Nuclear Opportunities Pump-Priming Project Scheme |  |UKRI|
 ||<img style='border:1px solid #000000' src="/images/japan_flag.png" width="20" height="15">|2020 --- 2025 | Grant-in-Aid for Scientific Research (A) <br>科研費基盤研究（A) | [20H00227](https://kaken.nii.ac.jp/en/grant/KAKENHI-PROJECT-20H00227/) | Japan Society for the Promotion of Science　<br>日本学術振興会 |
 ||<img style='border:1px solid #000000' src="/images/japan_flag.png" width="20" height="15">|2019 --- 2024 | Grant-in-Aid for Challenging Research (Pioneering) <br>科研費挑戦的（開拓) |[20K20489](https://kaken.nii.ac.jp/en/grant/KAKENHI-PROJECT-20K20489/) | Japan Society for the Promotion of Science　<br>日本学術振興会 |
 ||<img style='border:1px solid #000000' src="/images/japan_flag.png" width="20" height="15">|2019 | Cooperative Research Agreement | --- | University of Tokyo-Osaka University-Toshiba |
