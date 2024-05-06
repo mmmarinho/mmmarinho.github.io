@@ -126,7 +126,7 @@ Reviews
 
 Memberships 
 ======
-* IEEE Member
+* IEEE Senior Member
 <!-- * JSME Member （日本機械学会正員）-->
 
 Languages 
