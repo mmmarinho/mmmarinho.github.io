@@ -18,7 +18,7 @@ Researcher profiles
 Work experience
 ===============
 
-|<img width=20/>|     |     |     |
+|<img width=50/>|     |     |     |
 | --- | --- | --- | --- |
 |<img src="/images/uk_flag.png" width="20" height="15">| 2023/12 --- Today | Lecturer | The University of Manchester |
 |<img style='border:1px solid #000000' src="/images/japan_flag.png" width="20" height="15">|2019/04 --- 2023/12| Assistant Professor <br>助教|The University of Tokyo <br> 東京大学|
@@ -27,7 +27,7 @@ Work experience
 Education 
 =========
 
-|<img width=20/>|     |     |     |
+|<img width=50/>|     |     |     |
 | --- | --- | --- | --- |
 |<img style='border:1px solid #000000' src="/images/japan_flag.png" width="20" height="15">|2018 |**Ph.D. in Mechanical Engineering** <br> 博士（工）| **The University of Tokyo** <br> 東京大学|
 |<img src="/images/usa_flag.png" width="20" height="15">|2018/02 --- 2018/03| Graduate Visiting Scholar | Johns Hopkins University |
@@ -38,7 +38,7 @@ Education
 Talks
 =====
 
-|<img width=20/>|     |     |     |     |
+|<img width=50/>|     |     |     |     |
 | --- | --- | --- | --- | --- |
 |<img src="/images/sweden_flag.png" width="20" height="15">|2024/07 | Invited Speaker | (Semi) Autonomous Robots for Medicine, Space, Science, and Nuclear | 1st Symposium in Robotics in Biomedical Applications |
 |<img src="/images/sweden_flag.png" width="20" height="15">|2024/02 | Guest Lecture | Robotics for Medical Applications | MG2047 Advanced Manufacturing Equipment -- KTH  |
@@ -50,7 +50,7 @@ Talks
 Awards
 ======
 
-|<img width=20/>|     |     |     |
+|<img width=50/>|     |     |     |
 | --- | --- | --- | --- |
 |<img src="/images/usa_flag.png" width="20" height="15">|2023| Best Application Paper Award | 2023 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS'23)| 
 |<img style='border:1px solid #000000' src="/images/japan_flag.png" width="20" height="15">|2021 |  Dean's commendation on Online/Hybrid class good practices <br> オンライン授業・ハイブリッド授業のグッドプラクティス 東京大学総長表彰 | The University of Tokyo <br> 東京大学 |
@@ -65,7 +65,7 @@ Research grants
 
 **Principal investigator**
 
-|     |<img width=20/>|     |     |       |     |
+|     |<img width=50/>|     |     |       |     |
 | --- | ---           | --- | --- | :---: | --- |
 ||<img style='border:1px solid #000000' src="/images/japan_flag.png" width="20" height="15">|2023 --- 2026  | Grant-in-Aid for Early-Career Scientists <br>科研費若手 | [23K13287](https://kaken.nii.ac.jp/en/grant/KAKENHI-PROJECT-23K13287/) | Japan Society for the Promotion of Science <br>日本学術振興会 |
 ||<img style='border:1px solid #000000' src="/images/japan_flag.png" width="20" height="15">|2020 --- 2023 | Cooperative Research Agreement | --- | University of Tokyo-Osaka University-Toshiba |
@@ -73,7 +73,7 @@ Research grants
 
 **Co-investigator**
 
-|     |<img width=20/>|     |     |       |     |
+|     |<img width=50/>|     |     |       |     |
 | --- | ---           | --- | --- | :---: | --- |
 ||<img src="/images/uk_flag.png" width="20" height="15">|2023/09 --- 2024/02 |JUNO: A Network for Japan - UK Nuclear Opportunities Pump-Priming Project Scheme |  |UKRI|
 ||<img style='border:1px solid #000000' src="/images/japan_flag.png" width="20" height="15">|2020 --- 2025 | Grant-in-Aid for Scientific Research (A) <br>科研費基盤研究（A) | [20H00227](https://kaken.nii.ac.jp/en/grant/KAKENHI-PROJECT-20H00227/) | Japan Society for the Promotion of Science　<br>日本学術振興会 |
@@ -82,7 +82,7 @@ Research grants
 
 **Participant**
 
-|     |<img width=20/>|     |     |       |     |
+|     |<img width=50/>|     |     |       |     |
 | --- | ---           | --- | --- | :---: | --- |
 ||<img style='border:1px solid #000000' src="/images/japan_flag.png" width="20" height="15">|2020 --- Today | Co-evolution of Human and AI-Robots to Expand Science Frontiers <br>人とAIロボットの創造的共進化によるサイエンス開拓 | [JPMJPS2033-09](https://sites.google.com/g.ecc.u-tokyo.ac.jp/moonshot-ai-science-robot/) | Japan Science and Technology Agency　<br>科学技術振興機構 |
 
@@ -90,7 +90,7 @@ Research grants
 Scholarships and travel grants
 ======
 
-|<img width=20/>|     |     |     |
+|<img width=50/>|     |     |     |
 | ---           | --- | --- | --- |
 |<img style='border:1px solid #000000' src="/images/japan_flag.png" width="20" height="15">|2018 | Overseas Travel Support | Graduate Program for Mechanical Systems Innovation (GMSI) |
 |<img style='border:1px solid #000000' src="/images/japan_flag.png" width="20" height="15">|2015 --- 2018 | Research Student & Ph.D. Scholarship | Japanese Government (文部科学省:MEXT) |
