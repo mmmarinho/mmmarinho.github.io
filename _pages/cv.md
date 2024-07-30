@@ -101,15 +101,21 @@ Scholarships and travel grants
 Graduate (co-)supervisions
 ==========================
 
+UoM
+---
+
+**Taught MSc**
+- 2024: SL, NS, HY, MN, DC (1 ACSE, 4 Robotics)
+
 UTokyo
 ------
 
 **PostDoc**
-- Juan José Quiroz Omaña ([RAM24](https://arxiv.org/abs/2210.11877))
+- Juan José Quiroz Omaña ([RAM24](http://doi.org/10.1109/MRA.2023.3336472))
 
 **PhD**
-- (ongoing) Hung-Ching Lin
-- (ongoing) Enduo Zhao ([IROS23](https://arxiv.org/pdf/2303.12265))
+- (ongoing) Hung-Ching Lin ([ICRA24](https://arxiv.org/pdf/2309.10287))
+- (ongoing) Enduo Zhao ([IROS23](http://doi.org/10.1109/IROS55552.2023.10341693))
 - Yuki Koyama ([T-MRB22](http://doi.org/10.1109/TMRB.2022.3147033) and [ICRA23](http://doi.org/10.1109/ICRA48891.2023.10160795))
 
 **MS**
