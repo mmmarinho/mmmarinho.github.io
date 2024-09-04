@@ -67,7 +67,7 @@ Research grants
 
 |     |<img width=50/>|     |     |       |     |
 | --- | ---           | --- | --- | :---: | --- |
-||<img src="/images/uk_flag.png" width="20" height="15">|2024 --- 2025 | 2024-2025 Open Research Fellow | [[Info]](https://www.openresearch.manchester.ac.uk/projects/or-skills-training/fellowship-programme/2024-2025-fellows/) | Office for Open Research |
+|<img src="/images/untitled_blue.png" width="20" height="20">|<img src="/images/uk_flag.png" width="20" height="15">|2024 --- 2025 | 2024-2025 Open Research Fellow | [[Info]](https://www.openresearch.manchester.ac.uk/projects/or-skills-training/fellowship-programme/2024-2025-fellows/) | Office for Open Research |
 ||<img style='border:1px solid #000000' src="/images/japan_flag.png" width="20" height="15">|2023 --- 2026  | Grant-in-Aid for Early-Career Scientists <br>科研費若手 | [23K13287](https://kaken.nii.ac.jp/en/grant/KAKENHI-PROJECT-23K13287/) | Japan Society for the Promotion of Science <br>日本学術振興会 |
 ||<img style='border:1px solid #000000' src="/images/japan_flag.png" width="20" height="15">|2020 --- 2023 | Cooperative Research Agreement | --- | University of Tokyo-Osaka University-Toshiba |
 ||<img style='border:1px solid #000000' src="/images/japan_flag.png" width="20" height="15">|2019 --- 2023  | Grant-in-Aid for Early-Career Scientists <br>科研費若手 |[19K14935](https://kaken.nii.ac.jp/en/grant/KAKENHI-PROJECT-19K14935/) | Japan Society for the Promotion of Science <br>日本学術振興会 |
@@ -76,7 +76,9 @@ Research grants
 
 |     |<img width=50/>|     |     |       |     |
 | --- | ---           | --- | --- | :---: | --- |
-||<img src="/images/uk_flag.png" width="20" height="15">|2023/09 --- 2024/02 |JUNO: A Network for Japan - UK Nuclear Opportunities Pump-Priming Project Scheme |  |UKRI|
+|<img src="/images/untitled_blue.png" width="20" height="20">|<img src="/images/uk_flag.png" width="20" height="15">|2024/04 --- 2025/03 | Academic Research Programme: Theme 3 | --- | RAICo |
+|<img src="/images/untitled_blue.png" width="20" height="20">|<img src="/images/uk_flag.png" width="20" height="15">|2024/04 --- 2025/03 | Academic Research Programme: Theme 2 | --- | RAICo |
+||<img src="/images/uk_flag.png" width="20" height="15">|2023/09 --- 2024/02 |JUNO: A Network for Japan - UK Nuclear Opportunities Pump-Priming Project Scheme | --- |UKRI|
 ||<img style='border:1px solid #000000' src="/images/japan_flag.png" width="20" height="15">|2020 --- 2025 | Grant-in-Aid for Scientific Research (A) <br>科研費基盤研究（A) | [20H00227](https://kaken.nii.ac.jp/en/grant/KAKENHI-PROJECT-20H00227/) | Japan Society for the Promotion of Science　<br>日本学術振興会 |
 ||<img style='border:1px solid #000000' src="/images/japan_flag.png" width="20" height="15">|2019 --- 2024 | Grant-in-Aid for Challenging Research (Pioneering) <br>科研費挑戦的（開拓) |[20K20489](https://kaken.nii.ac.jp/en/grant/KAKENHI-PROJECT-20K20489/) | Japan Society for the Promotion of Science　<br>日本学術振興会 |
 ||<img style='border:1px solid #000000' src="/images/japan_flag.png" width="20" height="15">|2019 | Cooperative Research Agreement | --- | University of Tokyo-Osaka University-Toshiba |
