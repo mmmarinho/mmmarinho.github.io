@@ -115,8 +115,10 @@ UoM
 
 **3Y Project**
 - 2024-25: (ongoing) DH, MH, OS
+
 **4Y Project**
 - 2024: (ongoing) Team 7.
+ 
 **1Y MSc Project**
 - 2024: SL, NS, HY, MN, DC (1 ACSE, 4 Robotics)
 
