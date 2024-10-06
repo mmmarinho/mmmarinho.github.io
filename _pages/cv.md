@@ -107,14 +107,24 @@ Graduate (co-)supervisions
 UoM
 ---
 
-**Taught MSc**
+**PostDoc**
+- (ongoing) Dr Ahmed Soliman
+
+**PhD**
+- (ongoing) Lewis Wheelhouse (with Dr Simon Watson and Prof. Andrew Weightman).
+
+**3Y Project**
+- 2024-25: (ongoing) DH, MH, OS
+**4Y Project**
+- 2024: (ongoing) Team 7.
+**1Y MSc Project**
 - 2024: SL, NS, HY, MN, DC (1 ACSE, 4 Robotics)
 
 UTokyo
 ------
 
 **PostDoc**
-- Juan José Quiroz Omaña ([RAM24](http://doi.org/10.1109/MRA.2023.3336472))
+- Dr Juan José Quiroz Omaña ([RAM24](http://doi.org/10.1109/MRA.2023.3336472))
 
 **PhD**
 - (ongoing) Hung-Ching Lin ([ICRA24](https://arxiv.org/pdf/2309.10287))
