@@ -40,7 +40,8 @@ Talks
 
 |<img width=50/>|     |     |     |     |
 | --- | --- | --- | --- | --- |
-|<img src="/images/sweden_flag.png" width="20" height="15">|2024/07 | Invited Speaker | (Semi) Autonomous Robots for Medicine, Space, Science, and Nuclear | 1st Symposium in Robotics in Biomedical Applications |
+|<img src="/images/uk_flag.png" width="20" height="15">|2024/12 | Invited Speaker | Developing a Multi-Arm Robotic Platform for Scientific Exploration | Winter School on Robotics & AI for Materials Chemistry -- UoL |
+|<img src="/images/sweden_flag.png" width="20" height="15">|2024/07 | Invited Speaker | (Semi) Autonomous Robots for Medicine, Space, Science, and Nuclear | 1st Symposium in Robotics in Biomedical Applications -- KTH |
 |<img src="/images/sweden_flag.png" width="20" height="15">|2024/02 | Guest Lecture | Robotics for Medical Applications | MG2047 Advanced Manufacturing Equipment -- KTH  |
 |<img src="/images/uk_flag.png" width="20" height="15">|2023/06 | Keynote Speaker | Using Dual Quaternion Algebra for Constrained Applications in Robots for Surgery, Science, and Space  | Geometric Representations -- ICRA'23 |
 |<img src="/images/flag_switzerland.png" width="20" height="15">|2022/12 | Keynote Speaker | (Semi)Autonomous Robots for Medicine, Space, and Scientific Discovery | ‘The lab of the future, today’ -- Laboratory Automation Workshop 2022 EPFL |
