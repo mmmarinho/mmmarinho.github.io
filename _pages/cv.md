@@ -112,7 +112,8 @@ UoM
 - (ongoing) Dr Ahmed Soliman
 
 **PhD**
-- (ongoing) Lewis Wheelhouse (with Dr Simon Watson and Prof. Andrew Weightman).
+- (ongoing) Naseel Sinan (with [Dr Tingting Mu](https://research.manchester.ac.uk/en/persons/tingting.mu)) 
+- (ongoing) Lewis Wheelhouse (with [Dr Simon Watson](https://research.manchester.ac.uk/en/persons/simon.watson) and [Prof. Andrew Weightman](https://research.manchester.ac.uk/en/persons/andrew.weightman)).
 
 **3Y Project**
 - 2024-25: (ongoing) DH, MH, OS
