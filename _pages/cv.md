@@ -40,6 +40,7 @@ Talks
 
 |<img width=50/>|     |     |     |     |
 | --- | --- | --- | --- | --- |
+|<img style='border:1px solid #000000' src="/images/japan_flag.png" width="20" height="15">|2025/01 | Invited Speaker | (Semi) Autonomous Robots | The Second University of Manchester and University of Tokyo Joint Research symposium -- UTokyo |
 |<img style='border:1px solid #000000' src="/images/japan_flag.png" width="20" height="15">|2025/01 | Invited Speaker | (Semi) Autonomous Robots for Surgery, Science, Space, and Nuclear | SPRING GX Advanced Skills Training Lecture Series -- UTokyo |
 |<img src="/images/uk_flag.png" width="20" height="15">|2024/12 | Invited Speaker | Developing a Multi-Arm Robotic Platform for Scientific Exploration | Winter School on Robotics & AI for Materials Chemistry -- UoL |
 |<img src="/images/sweden_flag.png" width="20" height="15">|2024/07 | Invited Speaker | (Semi) Autonomous Robots for Medicine, Space, Science, and Nuclear | 1st Symposium in Robotics in Biomedical Applications -- KTH |
