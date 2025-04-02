@@ -40,6 +40,7 @@ Talks
 
 |<img width=50/>|     |     |     |     |
 | --- | --- | --- | --- | --- |
+|<img src="/images/sweden_flag.png" width="20" height="15">|2025/02 | Guest Lecture | Robotics for Medical Applications | MG2047 Advanced Manufacturing Equipment -- KTH  |
 |<img style='border:1px solid #000000' src="/images/japan_flag.png" width="20" height="15">|2025/01 | Invited Speaker | (Semi) Autonomous Robots | The Second University of Manchester and University of Tokyo Joint Research symposium -- UTokyo |
 |<img style='border:1px solid #000000' src="/images/japan_flag.png" width="20" height="15">|2025/01 | Invited Speaker | (Semi) Autonomous Robots for Surgery, Science, Space, and Nuclear | SPRING GX Advanced Skills Training Lecture Series -- UTokyo |
 |<img src="/images/uk_flag.png" width="20" height="15">|2024/12 | Invited Speaker | Developing a Multi-Arm Robotic Platform for Scientific Exploration | Winter School on Robotics & AI for Materials Chemistry -- UoL |
@@ -79,8 +80,8 @@ Research grants
 
 |     |<img width=50/>|     |     |       |     |
 | --- | ---           | --- | --- | :---: | --- |
-|<img src="/images/untitled_blue.png" width="20" height="20">|<img src="/images/uk_flag.png" width="20" height="15">|2024/04 --- 2025/03 | Academic Research Programme: Theme 3 | --- | RAICo |
-|<img src="/images/untitled_blue.png" width="20" height="20">|<img src="/images/uk_flag.png" width="20" height="15">|2024/04 --- 2025/03 | Academic Research Programme: Theme 2 | --- | RAICo |
+|<img src="/images/untitled_blue.png" width="20" height="20">|<img src="/images/uk_flag.png" width="20" height="15">|2024/04 --- 2025/03 | Academic Research Programme: Theme 3 | --- | RAICo & RAICo Phase 2 |
+||<img src="/images/uk_flag.png" width="20" height="15">|2024/04 --- 2025/03 | Academic Research Programme: Theme 2 | --- | RAICo |
 ||<img src="/images/uk_flag.png" width="20" height="15">|2023/09 --- 2024/02 |JUNO: A Network for Japan - UK Nuclear Opportunities Pump-Priming Project Scheme | --- |UKRI|
 ||<img style='border:1px solid #000000' src="/images/japan_flag.png" width="20" height="15">|2020 --- 2025 | Grant-in-Aid for Scientific Research (A) <br>科研費基盤研究（A) | [20H00227](https://kaken.nii.ac.jp/en/grant/KAKENHI-PROJECT-20H00227/) | Japan Society for the Promotion of Science　<br>日本学術振興会 |
 ||<img style='border:1px solid #000000' src="/images/japan_flag.png" width="20" height="15">|2019 --- 2024 | Grant-in-Aid for Challenging Research (Pioneering) <br>科研費挑戦的（開拓) |[20K20489](https://kaken.nii.ac.jp/en/grant/KAKENHI-PROJECT-20K20489/) | Japan Society for the Promotion of Science　<br>日本学術振興会 |
@@ -118,7 +119,7 @@ UoM
 - (ongoing) Lewis Wheelhouse (with [Dr Simon Watson](https://research.manchester.ac.uk/en/persons/simon.watson) and [Prof. Andrew Weightman](https://research.manchester.ac.uk/en/persons/andrew.weightman)).
 
 **3Y Project**
-- 2024-25: (ongoing) DH, MH, OS
+- 2024: (ongoing) DH, MH, OS
 
 **4Y Project**
 - 2024: (ongoing) Team 7.
@@ -134,8 +135,8 @@ UTokyo
 
 **PhD**
 - (ongoing) Hung-Ching Lin ([ICRA24](https://arxiv.org/pdf/2309.10287))
-- (ongoing) Enduo Zhao ([IROS23](http://doi.org/10.1109/IROS55552.2023.10341693))
-- Yuki Koyama ([T-MRB22](http://doi.org/10.1109/TMRB.2022.3147033) and [ICRA23](http://doi.org/10.1109/ICRA48891.2023.10160795))
+- Enduo Zhao ([IROS23](http://doi.org/10.1109/IROS55552.2023.10341693))
+- Yuki Koyama ([T-MRB22](http://doi.org/10.1109/TMRB.2022.3147033), [ICRA23](http://doi.org/10.1109/ICRA48891.2023.10160795) and [IJMRCAS25](http://doi.org/10.1002/rcs.70040)).
 
 **MS**
 - Jiawei Zhao
