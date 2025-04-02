@@ -30,4 +30,5 @@ author_profile: true
 
 ## Executable books
 
+- [Open Executable Books in Robotics](https://marinholab.github.io/OpenExecutableBooksRobotics/).
 - Kinematic modeling and control of serial-link robotic manipulators using DQ Robotics: From zero to hero. ([More info](https://github.com/dqrobotics/learning-dqrobotics-in-matlab/tree/master/robotic_manipulators)/[Download as ZIP](https://github.com/dqrobotics/learning-dqrobotics-in-matlab/archive/refs/heads/master.zip))
