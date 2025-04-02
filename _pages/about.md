@@ -22,7 +22,7 @@ Prospective MSc students must refer to the [Robotics MSc](https://www.manchester
 
 My work has been focused on teleoperated and/or (semi-)automomous robots applied to [medicine](https://www.youtube.com/watch?v=dayuW47PKKc&list=TLGGLlmonU1w7aAyMjA5MjAyMQ) and [scientific exploration](https://aiscienceplatform.github.io). Notably
 - Pediatric surgery: [ICRA19](http://doi.org/10.1109/ICRA.2019.8794363), [RAL20](http://doi.org/10.1109/LRA.2019.2963642), [T-MRB21](http://doi.org/https://doi.org/10.1109/TMRB.2021.3049878), and [JMRCAS23](http://doi.org/10.1002/rcs.2476).
-- Eye surgery: [T-MRB22](http://doi.org/10.1109/TMRB.2022.3147033) and [ICRA23](http://doi.org/10.1109/ICRA48891.2023.10160795).
+- Eye surgery: [T-MRB22](http://doi.org/10.1109/TMRB.2022.3147033), [ICRA23](http://doi.org/10.1109/ICRA48891.2023.10160795), and [IJMRCAS25](http://doi.org/10.1002/rcs.70040).
 - Neurosurgery: [T-RO19](http://doi.org/10.1109/TRO.2019.2920078) and [IJMRCAS20](http://doi.org/10.1002/rcs.2053).
 - Scientific exploration: [IROS23](https://arxiv.org/pdf/2303.12265), [RAM24](http://doi.org/10.1109/MRA.2023.3336472), and [ICRA24](https://arxiv.org/pdf/2309.10287).
 
