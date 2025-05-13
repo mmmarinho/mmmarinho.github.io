@@ -7,6 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
+site_theme               : "default"
 title                    : "Murilo Marques Marinho, Ph.D."
 title_separator          : "-"
 name                     : &name "Murilo Marques Marinho"
@@ -127,24 +128,28 @@ exclude:
   - "*.sublime-workspace"
   - .asset-cache
   - .bundle
+  - .github
   - .jekyll-assets-cache
   - .sass-cache
-  - assets/js/plugins
   - assets/js/_main.js
+  - assets/js/plugins
   - assets/js/vendor
-  - Capfile
   - CHANGELOG
+  - Capfile
   - config
+  - Dockerfile
   - Gemfile
   - Gruntfile.js
   - gulpfile.js
   - LICENSE
+  - local
   - log
   - node_modules
-  - package.json
+  - package.json*
   - Rakefile
   - README
   - tmp
+  - vendor
 keep_files:
   - .git
   - .svn
@@ -259,18 +264,22 @@ timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database
 
 # Plugins
 plugins:
+  - jekyll-feed
+  - jekyll-gist
   - jekyll-paginate
   - jekyll-sitemap
-  - jekyll-gist
-  - jekyll-feed
   - jekyll-redirect-from
-# mimic GitHub Pages with --safe
+  - jemoji
+
+# Mimic GitHub Pages with --safe
 whitelist:
+  - jekyll-feed
+  - jekyll-gist
   - jekyll-paginate
   - jekyll-sitemap
-  - jekyll-gist
-  - jekyll-feed
+  - jekyll-redirect-from
   - jemoji
+
 
 
 # Archives
