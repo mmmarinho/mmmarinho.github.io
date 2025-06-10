@@ -40,7 +40,7 @@ Talks
 
 |<img width=50/>|     |     |     |     |
 | --- | --- | --- | --- | --- |
-|<img src="/images/sweden_flag.png" width="20" height="15">|2025/06 | Invited Speaker | (Semi) Autonomous Robots for Medicine, Space, Science, and Nuclear | Workshop 2: Robotics For Medical Applications and Scientific Exploration -- euspen IC&E |
+|<img src="/images/spain_flag.png" width="20" height="15">|2025/06 | Invited Speaker | (Semi) Autonomous Robots for Medicine, Space, Science, and Nuclear | Workshop 2: Robotics For Medical Applications and Scientific Exploration -- euspen IC&E |
 |<img src="/images/sweden_flag.png" width="20" height="15">|2025/02 | Guest Lecture | Robotics for Medical Applications | MG2047 Advanced Manufacturing Equipment -- KTH  |
 |<img style='border:1px solid #000000' src="/images/japan_flag.png" width="20" height="15">|2025/01 | Invited Speaker | (Semi) Autonomous Robots | The Second University of Manchester and University of Tokyo Joint Research symposium -- UTokyo |
 |<img style='border:1px solid #000000' src="/images/japan_flag.png" width="20" height="15">|2025/01 | Invited Speaker | (Semi) Autonomous Robots for Surgery, Science, Space, and Nuclear | SPRING GX Advanced Skills Training Lecture Series -- UTokyo |
