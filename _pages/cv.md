@@ -124,14 +124,14 @@ UoM
 - (ongoing) Lewis Wheelhouse (with [Dr Simon Watson](https://research.manchester.ac.uk/en/persons/simon.watson) and [Prof. Andrew Weightman](https://research.manchester.ac.uk/en/persons/andrew.weightman)).
 
 **3Y Project**
-- 2024: DH, MH, OS
+- 24—25: DH, MH, OS
 
 **4Y Project**
-- 2024: Team 7
+- 24—25: Team 7
  
 **1Y MSc Project**
-- 2025: JB, YZ, ZD, AT, MHSM, YW (6 Robotics)
-- 2024: SL, NS, HY, MN, DC (1 ACSE, 4 Robotics)
+- 24—25: JB, YZ, ZD, AT, MHSM, YW (6 Robotics)
+- 23—24: SL, NS, HY, MN, DC (1 ACSE, 4 Robotics)
 
 UTokyo
 ------
