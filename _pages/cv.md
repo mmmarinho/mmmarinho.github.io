@@ -57,12 +57,13 @@ Awards
 
 | <img width=50/>                                                                            |      |                                                                                                    |                                                                                    |
 |--------------------------------------------------------------------------------------------|------|----------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------|
+| <img src="/images/uk_flag.png" width="20" height="15">                                     | 2025 | The VSI Best-Research Poster Award                                                                 | TAROS 2025: Towards Autonomous Robotic Systems                                     | 
 | <img src="/images/uk_flag.png" width="20" height="15">                                     | 2025 | High Commendation - Open Research Award                                                            | The University of Manchester                                                       | 
 | <img src="/images/usa_flag.png" width="20" height="15">                                    | 2023 | Best Application Paper Award                                                                       | 2023 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS'23) | 
 | <img style='border:1px solid #000000' src="/images/japan_flag.png" width="20" height="15"> | 2021 | Dean's commendation on Online/Hybrid class good practices <br> オンライン授業・ハイブリッド授業のグッドプラクティス 東京大学総長表彰 | The University of Tokyo <br> 東京大学                                                  |
 | <img src="/images/uk_flag.png" width="20" height="15">                                     | 2019 | Overall Winner Award                                                                               | Surgical Robot Challenge                                                           |
 | <img src="/images/uk_flag.png" width="20" height="15">                                     | 2019 | Best Innovation Award                                                                              | Surgical Robot Challenge                                                           |
-| <img src="/images/germany_flag.png" width="20" height="15">                                | 2017 | Best paper runner-up award                                                                         | ACM International Workshop on Sensor-based Activity Recognition and Interaction    |
+| <img src="/images/germany_flag.png" width="20" height="15">                                | 2017 | Best Paper Runner-up Award                                                                         | ACM International Workshop on Sensor-based Activity Recognition and Interaction    |
 
 Research grants
 ===============
@@ -74,7 +75,7 @@ Research grants
 |                                                              | <img width=50/>                                                                            |               |                                                    |                                                                                                                         |                                                        |
 |--------------------------------------------------------------|--------------------------------------------------------------------------------------------|---------------|----------------------------------------------------|:-----------------------------------------------------------------------------------------------------------------------:|--------------------------------------------------------|
 | <img src="/images/untitled_blue.png" width="20" height="20"> | <img src="/images/uk_flag.png" width="20" height="15">                                     | 2025 --- 2026 | Academic Research Programme: Project 13            |                                                           ---                                                           | RAICo Phase 2                                          |
-| <img src="/images/untitled_blue.png" width="20" height="20"> | <img src="/images/uk_flag.png" width="20" height="15">                                     | 2024 --- 2025 | 2024-2025 Open Research Fellow                     | [[Info]](https://www.openresearch.manchester.ac.uk/projects/or-skills-training/fellowship-programme/2024-2025-fellows/) | Office for Open Research                               |
+|                                                              | <img src="/images/uk_flag.png" width="20" height="15">                                     | 2024 --- 2025 | 2024-2025 Open Research Fellow                     | [[Info]](https://www.openresearch.manchester.ac.uk/projects/or-skills-training/fellowship-programme/2024-2025-fellows/) | Office for Open Research                               |
 |                                                              | <img style='border:1px solid #000000' src="/images/japan_flag.png" width="20" height="15"> | 2023 --- 2026 | Grant-in-Aid for Early-Career Scientists <br>科研費若手 |                         [23K13287](https://kaken.nii.ac.jp/en/grant/KAKENHI-PROJECT-23K13287/)                          | Japan Society for the Promotion of Science <br>日本学術振興会 |
 |                                                              | <img style='border:1px solid #000000' src="/images/japan_flag.png" width="20" height="15"> | 2020 --- 2023 | Cooperative Research Agreement                     |                                                           ---                                                           | University of Tokyo-Osaka University-Toshiba           |
 |                                                              | <img style='border:1px solid #000000' src="/images/japan_flag.png" width="20" height="15"> | 2019 --- 2023 | Grant-in-Aid for Early-Career Scientists <br>科研費若手 |                         [19K14935](https://kaken.nii.ac.jp/en/grant/KAKENHI-PROJECT-19K14935/)                          | Japan Society for the Promotion of Science <br>日本学術振興会 |
@@ -93,13 +94,13 @@ Research grants
 
 **Participant**
 
-|     | <img width=50/>                                                                            |                |                                                                                               |                                                                                          |                                                  |
-|-----|--------------------------------------------------------------------------------------------|----------------|-----------------------------------------------------------------------------------------------|:----------------------------------------------------------------------------------------:|--------------------------------------------------|
-|     | <img style='border:1px solid #000000' src="/images/japan_flag.png" width="20" height="15"> | 2020 --- Today | Co-evolution of Human and AI-Robots to Expand Science Frontiers <br>人とAIロボットの創造的共進化によるサイエンス開拓 | [JPMJPS2033-09](https://sites.google.com/g.ecc.u-tokyo.ac.jp/moonshot-ai-science-robot/) | Japan Science and Technology Agency　<br>科学技術振興機構 |
+|     | <img width=50/>                                                                            |               |                                                                                               |                                                                                          |                                                  |
+|-----|--------------------------------------------------------------------------------------------|---------------|-----------------------------------------------------------------------------------------------|:----------------------------------------------------------------------------------------:|--------------------------------------------------|
+|     | <img style='border:1px solid #000000' src="/images/japan_flag.png" width="20" height="15"> | 2020 --- 2025 | Co-evolution of Human and AI-Robots to Expand Science Frontiers <br>人とAIロボットの創造的共進化によるサイエンス開拓 | [JPMJPS2033-09](https://sites.google.com/g.ecc.u-tokyo.ac.jp/moonshot-ai-science-robot/) | Japan Science and Technology Agency　<br>科学技術振興機構 |
 
 
 Scholarships and travel grants
-======
+==============================
 
 | <img width=50/>                                                                            |               |                                      |                                                                        |
 |--------------------------------------------------------------------------------------------|---------------|--------------------------------------|------------------------------------------------------------------------|
@@ -157,12 +158,12 @@ Reviews
 -->
 
 Memberships 
-======
+===========
 * IEEE Senior Member
 <!-- * JSME Member （日本機械学会正員）-->
 
 Languages 
-======
+=========
 Feel free to contact me in
 * <img src="/images/brazil_flag.png" width="20" height="15"> Portuguese
 * <img src="/images/usa_flag.png" width="20" height="15"> English
