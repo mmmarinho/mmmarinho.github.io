@@ -14,9 +14,9 @@ I have a BS (2012) in Mechatronics Engineering and MS (2014) in Electronic Syste
 
 ### Opportunities
 
-Open opportunities (if any) for Ph.D, Research Assistant (RA), and Research Associate (PDRA) in my group are posted on my [LinkedIn](https://www.linkedin.com/in/murilo-marques-marinho-046178252/), the [robotics-worldwide mailing list](https://www.lists.kit.edu/sympa/subscribe/robotics-worldwide), [UoM jobs page](https://www.jobs.manchester.ac.uk/Home/Job), and [FindAPhd](https://www.findaphd.com/phds/department-of-electronic-and-electrical-engineering/?c00jh440&Keywords=marinho) (when applicable).
+Open opportunities (if any) for Ph.D, Research Assistant (RA), and Research Associate (PDRA) in my group are posted on my [LinkedIn](https://www.linkedin.com/in/murilo-marques-marinho-046178252/), the [robotics-worldwide mailing list](https://www.lists.kit.edu/sympa/subscribe/robotics-worldwide), [UoM jobs page](https://www.jobs.manchester.ac.uk/Home/Job), and [FindAPhd](https://www.findaphd.com/phds/department-of-electronic-and-electrical-engineering/?c00jh440&Keywords=marinho).
 
-Prospective MSc dissertation projects students must be enrolled in programmes such as the [Robotics MSc](https://www.manchester.ac.uk/study/masters/courses/list/20967/msc-robotics/#course-profile) or [ACSE MSc](https://www.manchester.ac.uk/study/masters/courses/list/04166/msc-advanced-control-and-systems-engineering/)). They will be allocated accordingly to EEEN60070 or EEEN60770 handbook information. 
+Prospective MSc dissertation project students must be enrolled in programmes such as the [Robotics MSc](https://www.manchester.ac.uk/study/masters/courses/list/20967/msc-robotics/#course-profile) or [ACSE MSc](https://www.manchester.ac.uk/study/masters/courses/list/04166/msc-advanced-control-and-systems-engineering/). The students will be allocated accordingly to EEEN60070 or EEEN60770 handbook information. 
 
 ### Research 
 
