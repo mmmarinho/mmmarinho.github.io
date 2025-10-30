@@ -16,7 +16,7 @@ I have a BS (2012) in Mechatronics Engineering and MS (2014) in Electronic Syste
 
 *Please note: I am unable to respond to cold emails about unlisted opportunities.*
 
-Open opportunities (if any) for Ph.D, Research Assistant (RA), and Research Associate (PDRA) in my group are posted on my [LinkedIn](https://www.linkedin.com/in/murilo-marques-marinho-046178252/), the [robotics-worldwide mailing list](https://www.lists.kit.edu/sympa/subscribe/robotics-worldwide), [UoM jobs page](https://www.jobs.manchester.ac.uk/Home/Job), and [FindAPhd](https://www.findaphd.com/phds/department-of-electronic-and-electrical-engineering/?c00jh440&Keywords=marinho).
+Open opportunities (if any) for Ph.D, Research Assistant (RA), and Research Associate (PDRA) in my group are posted on my [LinkedIn](https://www.linkedin.com/in/murilo-marques-marinho-046178252/), [UoM jobs page](https://www.jobs.manchester.ac.uk/Home/Job), and [FindAPhd](https://www.findaphd.com/phds/?Keywords=marinho).
 
 Prospective MSc dissertation project students must be enrolled in programmes such as the [Robotics MSc](https://www.manchester.ac.uk/study/masters/courses/list/20967/msc-robotics/#course-profile) or [ACSE MSc](https://www.manchester.ac.uk/study/masters/courses/list/04166/msc-advanced-control-and-systems-engineering/). The students will be allocated accordingly to EEEN60070 or EEEN60770 handbook information. Please check the handbook for information related to bespoke project proposals if applicable.
 
@@ -46,4 +46,6 @@ Those implementations are based on a rigourous constrained kinematic robot contr
 
 
 <iframe width="290" height="160" src="https://www.youtube.com/embed/videoseries?list=PLfnnpBCwI_l_sDiffl5hRHH8rmvGs8aH0" title="Press/Talks" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<!-- the [robotics-worldwide mailing list](https://www.lists.kit.edu/sympa/subscribe/robotics-worldwide) -->
 
