@@ -141,8 +141,8 @@ UTokyo
 
 **PhD**
 - (ongoing) Hung-Ching Lin ([ICRA24](https://arxiv.org/pdf/2309.10287))
-- Enduo Zhao ([IROS23](http://doi.org/10.1109/IROS55552.2023.10341693))
-- Yuki Koyama ([T-MRB22](http://doi.org/10.1109/TMRB.2022.3147033), [ICRA23](http://doi.org/10.1109/ICRA48891.2023.10160795) and [IJMRCAS25](http://doi.org/10.1002/rcs.70040)).
+- Enduo Zhao ([IROS23](http://doi.org/10.1109/IROS55552.2023.10341693) and [T-ASE25](https://ieeexplore.ieee.org/document/11234913))
+- Yuki Koyama ([T-MRB22](http://doi.org/10.1109/TMRB.2022.3147033), [ICRA23](http://doi.org/10.1109/ICRA48891.2023.10160795), and [IJMRCAS25](http://doi.org/10.1002/rcs.70040)).
 
 **MS**
 - Jiawei Zhao
