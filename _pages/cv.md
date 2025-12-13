@@ -116,14 +116,22 @@ Graduate (co-)supervisions
 UoM
 ---
 
-**PostDoc**
+**PDRA**
 - (ongoing) Dr Ahmed Soliman
+
+**RA**
+
+- (ongoing) Parisa Moradi
 
 **PhD**
 - (ongoing) Naseel Sinan (with [Dr Tingting Mu](https://research.manchester.ac.uk/en/persons/tingting.mu)) 
 - (ongoing) Lewis Wheelhouse (with [Dr Simon Watson](https://research.manchester.ac.uk/en/persons/simon.watson) and [Prof. Andrew Weightman](https://research.manchester.ac.uk/en/persons/andrew.weightman)).
+- (ongoing) Rawan Elsayed.
+- (ongoing) Elliot Winterbottom. (with Dr [Bruno Adorno](https://research.manchester.ac.uk/en/persons/bruno.adorno))
+- (ongoing) Herbert Naivalurua. (with Dr [Bruno Adorno](https://research.manchester.ac.uk/en/persons/bruno.adorno))
 
 **3Y Project**
+- 25-26: MA, SI, ZH, ED, TW
 - 24—25: DH, MH, OS
 
 **4Y Project**
@@ -151,16 +159,9 @@ UTokyo
 - Hisashi Ishida ([RAL20](http://doi.org/10.1109/LRA.2019.2963642))
 - Masakazu Yoshimura ([ICRA20](http://doi.org/10.1109/ICRA40945.2020.9196779) and [IROS21](http://doi.org/10.1109/IROS51168.2021.9636404))
 
-<!--
-Reviews
-======
-(Publons isn't a thing anymore??) Please check my [Publons profile](https://publons.com/researcher/1488056/murilo-marques-marinho/) for all my verified work as a reviewer.
--->
-
 Memberships 
 ===========
 * IEEE Senior Member
-<!-- * JSME Member （日本機械学会正員）-->
 
 Languages 
 =========
