@@ -8,6 +8,10 @@ redirect_from:
   - /about.html
 ---
 
+
+<iframe width="290" height="160" src="https://www.youtube.com/embed/videoseries?list=PLfnnpBCwI_l_sDiffl5hRHH8rmvGs8aH0" title="Press/Talks" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
 I am a Lecturer in Robotics with the Department of Electrical and Electronic Engineering, [The University of Manchester](https://www.manchester.ac.uk), Manchester, UK. I am currently based at [RAICo1](https://hotrobotics.co.uk/facilities/university-of-manchester-2/). 
 
 I have a BS (2012) in Mechatronics Engineering and MS (2014) in Electronic Systems and Automation Engineering from the [University of Brasilia](http://international.unb.br/). I obtained a PhD (2018) in Mechanical Engineering from the [University of Tokyo](https://www.u-tokyo.ac.jp/en/index.html). I was an Assistant Professor (助教) at the University of Tokyo until late 2023. I held a visitor scholar position (客員研究員) at the University of Tokyo, Tokyo, Japan, at the [Harada Laboratory](https://sites.google.com/g.ecc.u-tokyo.ac.jp/cdbim-medical-devices/home?authuser=0) until late 2025.
@@ -24,6 +28,10 @@ Prospective third-year project students will be assigned according to EEEN30330 
 
 ### Research 
 
+
+<iframe width="290" height="160" src="https://www.youtube.com/embed/videoseries?list=PLfnnpBCwI_l8DMpm5Q5t8gjXYFoM_tOlz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
 My work has been focused on teleoperated and/or (semi-)automomous robots applied to [medicine](https://www.youtube.com/watch?v=dayuW47PKKc&list=TLGGLlmonU1w7aAyMjA5MjAyMQ) and [scientific exploration](https://aiscienceplatform.github.io). Notably
 - Pediatric surgery: [ICRA19](http://doi.org/10.1109/ICRA.2019.8794363), [RAL20](http://doi.org/10.1109/LRA.2019.2963642), [T-MRB21](http://doi.org/https://doi.org/10.1109/TMRB.2021.3049878), and [JMRCAS23](http://doi.org/10.1002/rcs.2476).
 - Eye surgery: [T-MRB22](http://doi.org/10.1109/TMRB.2022.3147033), [ICRA23](http://doi.org/10.1109/ICRA48891.2023.10160795), and [IJMRCAS25](http://doi.org/10.1002/rcs.70040).
@@ -34,18 +42,3 @@ My work has been focused on teleoperated and/or (semi-)automomous robots applied
 Those implementations are based on a rigourous constrained kinematic robot control framework suitable for all sorts of robots.
 - (Adaptive) constrained kinematic control: [T-RO19](http://doi.org/10.1109/TRO.2019.2920078) and [T-RO22](http://doi.org/10.1109/TRO.2022.3181047). 
 - Software implementation and system integration: [IJMRCAS20](http://doi.org/10.1002/rcs.2053), [RAM21](http://doi.org/10.1109/MRA.2020.2997920), and [RAM24](http://doi.org/10.1109/MRA.2023.3336472).
-
-<hr>
-### Paper-related Videos
-
-
-<iframe width="290" height="160" src="https://www.youtube.com/embed/videoseries?list=PLfnnpBCwI_l8DMpm5Q5t8gjXYFoM_tOlz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-<hr>
-### Press/Talks-related Videos
-
-
-<iframe width="290" height="160" src="https://www.youtube.com/embed/videoseries?list=PLfnnpBCwI_l_sDiffl5hRHH8rmvGs8aH0" title="Press/Talks" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-<!-- the [robotics-worldwide mailing list](https://www.lists.kit.edu/sympa/subscribe/robotics-worldwide) -->
-
