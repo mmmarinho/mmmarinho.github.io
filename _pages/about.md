@@ -19,9 +19,9 @@ I have a BS (2012) in Mechatronics Engineering and MS (2014) in Electronic Syste
 
 ### Opportunities
 
-*Please note: I am unable to respond to cold emails about unlisted opportunities.*
+I am always looking for exceptional Ph.D. candidates for the University of Manchester's [Dean's Doctoral Scholarship](https://www.se.manchester.ac.uk/study/postgraduate-research/fees-and-funding/search-for-funding/deans-doctoral-scholarship/) and [President's Doctoral Scholarship](https://www.se.manchester.ac.uk/study/postgraduate-research/fees-and-funding/search-for-funding/presidents-doctoral-scholarship/). This opportunity and more (when applicable) are listed on [FindAPhd](https://www.findaphd.com/phds/?Keywords=marinho).
 
-Open opportunities (if any) for Ph.D, Research Assistant (RA), and Research Associate (PDRA) in my group are posted on my [LinkedIn](https://www.linkedin.com/in/murilo-marques-marinho-046178252/), [UoM jobs page](https://www.jobs.manchester.ac.uk/Home/Job), and [FindAPhd](https://www.findaphd.com/phds/?Keywords=marinho).
+Open opportunities (if any) for Research Assistant (RA) and Research Associate (PDRA) in my group are posted on my [LinkedIn](https://www.linkedin.com/in/murilo-marques-marinho-046178252/) and [UoM jobs page](https://www.jobs.manchester.ac.uk/Home/Job).
 
 Prospective MSc dissertation project students must be enrolled in programmes such as the [Robotics MSc](https://www.manchester.ac.uk/study/masters/courses/list/20967/msc-robotics/#course-profile) or [ACSE MSc](https://www.manchester.ac.uk/study/masters/courses/list/04166/msc-advanced-control-and-systems-engineering/). The students will be allocated accordingly to EEEN60070 or EEEN60770 handbook information. Please check the handbook for information related to bespoke project proposals if applicable.
 
