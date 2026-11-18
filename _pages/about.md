@@ -15,7 +15,7 @@ redirect_from:
 
 I am a Lecturer in Robotics with the Department of Electrical and Electronic Engineering, [The University of Manchester](https://www.manchester.ac.uk), Manchester, UK, where I lead a group of five researchers. I am based at [RAICo (Robotics and AI Collaboration)](https://hotrobotics.co.uk/facilities/university-of-manchester-2/), Whitehaven.
 
-I have a BSc (2012) in Mechatronics Engineering and an MSc (2014) in Electronic Systems and Automation Engineering from the [University of Brasilia](http://international.unb.br/). I obtained a PhD (2018) in Mechanical Engineering from the [University of Tokyo](https://www.u-tokyo.ac.jp/en/index.html). I was an Assistant Professor (助教) at the University of Tokyo until late 2023.
+I obtained a PhD (2018) in Mechanical Engineering from the [University of Tokyo](https://www.u-tokyo.ac.jp/en/index.html), where I was an Assistant Professor (助教) until late 2023. I have a BSc (2012) in Mechatronics Engineering and an MSc (2014) in Electronic Systems and Automation Engineering from the [University of Brasilia](http://international.unb.br/).
 
 ### Opportunities
 
