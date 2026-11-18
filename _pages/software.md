@@ -16,9 +16,15 @@ author_profile: true
 
 # Libraries
 
-|Title|Decription|License|Link|
+|Title|Description|License|Link|
 |-----|----------|-------|----|
-|DQ Robotics|Dual Quaternion algebra for robot modeling and control | LGPL|[Code on Github](https://github.com/dqrobotics/)|
+|DQ Robotics|Dual quaternion algebra for robot modelling and control. C++, Python, and MATLAB versions; about 11,000 PyPI downloads per month (November 2026) | LGPL|[Code on Github](https://github.com/dqrobotics/)|
 |SmartArmStack|Modular robot control for ROS 1 and ROS 2 | LGPL/ResearchOnly|[Code on Github](https://github.com/smartarmstack)|
 |AIRobotSciencePlatform|Control and simulation code for the AI robot platform | LGPL|[Code on Github](https://github.com/AISciencePlatform)|
+
+# Teaching material
+
+|Title|Description|Link|
+|-----|-----------|----|
+|ROS 2 Tutorial|ROS 2 course material in Python and C++, used in my Manchester teaching|[Read the Docs](https://ros2-tutorial.readthedocs.io)|
 

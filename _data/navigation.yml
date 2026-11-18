@@ -12,5 +12,8 @@ main:
   - title: "Software"
     url: /software/
     
+  - title: "Consulting"
+    url: /#consulting
+
   - title: "Random"
     url: /random/
