@@ -31,7 +31,7 @@ I take on consulting work through The University of Manchester, under the [Unive
 - ROS 2 software: architecture, drivers, packaging, and CI.
 - Training in software for robotics (ROS 2) and whole-body control.
 
-For enquiries, please email me at [murilo.marinho@manchester.ac.uk](mailto:murilo.marinho@manchester.ac.uk) with a short description, the hardware involved, and the expected timeline.
+For enquiries, please email me at [murilo.marinho@manchester.ac.uk](mailto:murilo.marinho@manchester.ac.uk) with a short description and the expected timeline.
 
 ### Research 
 
