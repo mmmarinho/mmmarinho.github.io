@@ -8,7 +8,7 @@
 # Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Murilo Marques Marinho, Ph.D."
+title                    : "Murilo Marques Marinho, PhD"
 title_separator          : "-"
 name                     : &name "Murilo Marques Marinho"
 description              : &description "Lecturer in Robotics"

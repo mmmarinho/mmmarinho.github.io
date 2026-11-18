@@ -18,7 +18,7 @@ author_profile: true
 
 |Country|Institution|Year|Code|Title|
 |---|---|---|---|---|
-|<img style='border:1px solid #000000' src="/images/japan_flag.png" width="20" height="15"> | <img src="/images/utokyo.png" width="20" height="20"> |2021S --- 2022A|ICP S/A II| *Teleoperated Robots: The Basics of Design, Fabrication, and Control* <br> (Special) International Collaborative Pratice S/A II <br> 国際連携（特別）演習　S・A II|
+|<img style='border:1px solid #000000' src="/images/japan_flag.png" width="20" height="15"> | <img src="/images/utokyo.png" width="20" height="20"> |2021S --- 2022A|ICP S/A II| *Teleoperated Robots: The Basics of Design, Fabrication, and Control* <br> (Special) International Collaborative Practice S/A II <br> 国際連携（特別）演習　S・A II|
 
 
 ## Educational Kit
@@ -26,7 +26,7 @@ author_profile: true
 
 ## Tutorials
 
-- [ROS2 Tutorial](https://ros2-tutorial.readthedocs.io).
+- [ROS 2 Tutorial](https://ros2-tutorial.readthedocs.io).
 
 ## Executable books
 

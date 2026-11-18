@@ -20,7 +20,7 @@ Work experience
 
 | <img width=50/>                                                                            |                     |                                   |                                   |
 |--------------------------------------------------------------------------------------------|---------------------|-----------------------------------|-----------------------------------|
-| <img src="/images/uk_flag.png" width="20" height="15">                                     | 2023/12 --- Today   | Lecturer                          | The University of Manchester      |
+| <img src="/images/uk_flag.png" width="20" height="15">                                     | 2023/12 --- Today   | Lecturer in Robotics and Research Group Lead | The University of Manchester      |
 | <img style='border:1px solid #000000' src="/images/japan_flag.png" width="20" height="15"> | 2019/04 --- 2023/12 | Assistant Professor <br>助教        | The University of Tokyo <br> 東京大学 |
 | <img style='border:1px solid #000000' src="/images/japan_flag.png" width="20" height="15"> | 2018/10 --- 2019/03 | Postdoctoral Researcher <br>特任研究員 | The University of Tokyo <br> 東京大学 |
 
@@ -29,11 +29,11 @@ Education
 
 | <img width=50/>                                                                            |                     |                                                                                                                          |                                                          |
 |--------------------------------------------------------------------------------------------|---------------------|--------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------|
-| <img style='border:1px solid #000000' src="/images/japan_flag.png" width="20" height="15"> | 2018                | **Ph.D. in Mechanical Engineering** <br> 博士（工）                                                                           | **The University of Tokyo** <br> 東京大学                    |
+| <img style='border:1px solid #000000' src="/images/japan_flag.png" width="20" height="15"> | 2018                | **PhD in Mechanical Engineering** <br> 博士（工）                                                                           | **The University of Tokyo** <br> 東京大学                    |
 | <img src="/images/usa_flag.png" width="20" height="15">                                    | 2018/02 --- 2018/03 | Graduate Visiting Scholar                                                                                                | Johns Hopkins University                                 |
 | <img style='border:1px solid #000000' src="/images/japan_flag.png" width="20" height="15"> | 2015/04 --- 2015/09 | Graduate Research Student <br>研究生                                                                                        | The University of Tokyo <br> 東京大学                        |
-| <img src="/images/brazil_flag.png" width="20" height="15">                                 | 2014                | **MS in Electronic Systems and Automation Engineering** <br> Mestre em Engenharia de Sistemas Eletrônicos e de Automação | **University of Brasilia** <br> Universidade de Brasilia |
-| <img src="/images/brazil_flag.png" width="20" height="15">                                 | 2012                | **BS in Mechatronics Engineering** <br> Bacharel em Engenharia Mecatrônica                                               | **University of Brasilia** <br> Universidade de Brasilia |
+| <img src="/images/brazil_flag.png" width="20" height="15">                                 | 2014                | **MSc in Electronic Systems and Automation Engineering** <br> Mestre em Engenharia de Sistemas Eletrônicos e de Automação | **University of Brasilia** <br> Universidade de Brasilia |
+| <img src="/images/brazil_flag.png" width="20" height="15">                                 | 2012                | **BSc in Mechatronics Engineering** <br> Bacharel em Engenharia Mecatrônica                                               | **University of Brasilia** <br> Universidade de Brasilia |
 
 Talks
 =====
@@ -105,10 +105,10 @@ Scholarships and travel grants
 | <img width=50/>                                                                            |               |                                      |                                                                        |
 |--------------------------------------------------------------------------------------------|---------------|--------------------------------------|------------------------------------------------------------------------|
 | <img style='border:1px solid #000000' src="/images/japan_flag.png" width="20" height="15"> | 2018          | Overseas Travel Support              | Graduate Program for Mechanical Systems Innovation (GMSI)              |
-| <img style='border:1px solid #000000' src="/images/japan_flag.png" width="20" height="15"> | 2015 --- 2018 | Research Student & Ph.D. Scholarship | Japanese Government (文部科学省:MEXT)                                       |
+| <img style='border:1px solid #000000' src="/images/japan_flag.png" width="20" height="15"> | 2015 --- 2018 | Research Student & PhD Scholarship | Japanese Government (文部科学省:MEXT)                                       |
 | <img src="/images/brazil_flag.png" width="20" height="15">                                 | 2014          | Domestic Travel Support              | Coordination for the Improvement of Higher Education Personnel (CAPES) |
-| <img src="/images/brazil_flag.png" width="20" height="15">                                 | 2012 --- 2014 | Master's Scholarship                 | Coodination of Improvement of Higher Education Personnel (CNPq)        |
-| <img src="/images/brazil_flag.png" width="20" height="15">                                 | 2009 --- 2010 | Undergraduate Scholarship            | Coodination of Improvement of Higher Education Personnel (CNPq)        |
+| <img src="/images/brazil_flag.png" width="20" height="15">                                 | 2012 --- 2014 | Master's Scholarship                 | National Council for Scientific and Technological Development (CNPq)        |
+| <img src="/images/brazil_flag.png" width="20" height="15">                                 | 2009 --- 2010 | Undergraduate Scholarship            | National Council for Scientific and Technological Development (CNPq)        |
 
 Graduate (co-)supervisions
 ==========================
@@ -131,15 +131,15 @@ UoM
 - (ongoing) Herbert Naivalurua. (with Dr [Bruno Adorno](https://research.manchester.ac.uk/en/persons/bruno.adorno))
 
 **3Y Project**
-- 25-26: MA, SI, ZH, ED, TW
-- 24—25: DH, MH, OS
+- 25–26: MA, SI, ZH, ED, TW
+- 24–25: DH, MH, OS
 
 **4Y Project**
-- 24—25: Team 7
+- 24–25: Team 7
  
 **1Y MSc Project**
-- 24—25: JB, YZ, ZD, AT, MHSM, YW (6 Robotics)
-- 23—24: SL, NS, HY, MN, DC (1 ACSE, 4 Robotics)
+- 24–25: JB, YZ, ZD, AT, MHSM, YW (6 Robotics)
+- 23–24: SL, NS, HY, MN, DC (1 ACSE, 4 Robotics)
 
 UTokyo
 ------
@@ -148,11 +148,11 @@ UTokyo
 - Dr Juan José Quiroz Omaña ([RAM24](http://doi.org/10.1109/MRA.2023.3336472))
 
 **PhD**
-- (ongoing) Hung-Ching Lin ([ICRA24](https://arxiv.org/pdf/2309.10287))
+- (ongoing) Hung-Ching Lin ([ICRA24](http://doi.org/10.1109/ICRA57147.2024.10610663))
 - Enduo Zhao ([IROS23](http://doi.org/10.1109/IROS55552.2023.10341693) and [T-ASE25](https://ieeexplore.ieee.org/document/11234913))
 - Yuki Koyama ([T-MRB22](http://doi.org/10.1109/TMRB.2022.3147033), [ICRA23](http://doi.org/10.1109/ICRA48891.2023.10160795), and [IJMRCAS25](http://doi.org/10.1002/rcs.70040)).
 
-**MS**
+**MSc**
 - Jiawei Zhao
 - Hung-Ching Lin
 - Risa Oikawa ([JMRCAS23](http://doi.org/10.1002/rcs.2476))
@@ -162,6 +162,7 @@ UTokyo
 Memberships 
 ===========
 * IEEE Senior Member
+* Fellow of the Higher Education Academy (FHEA)
 
 Languages 
 =========

@@ -42,7 +42,7 @@ My work has been focused on teleoperated and/or (semi-)autonomous robots applied
 - Paediatric surgery: [ICRA19](http://doi.org/10.1109/ICRA.2019.8794363), [RAL20](http://doi.org/10.1109/LRA.2019.2963642), [T-MRB21](http://doi.org/https://doi.org/10.1109/TMRB.2021.3049878), and [JMRCAS23](http://doi.org/10.1002/rcs.2476).
 - Eye surgery: [T-MRB22](http://doi.org/10.1109/TMRB.2022.3147033), [ICRA23](http://doi.org/10.1109/ICRA48891.2023.10160795), and [IJMRCAS25](http://doi.org/10.1002/rcs.70040).
 - Neurosurgery: [T-RO19](http://doi.org/10.1109/TRO.2019.2920078) and [IJMRCAS20](http://doi.org/10.1002/rcs.2053).
-- Scientific exploration: [IROS23](https://arxiv.org/abs/2303.12265), [RAM24](http://doi.org/10.1109/MRA.2023.3336472), [ICRA24](https://arxiv.org/abs/2309.10287), and [T-ASE2025](http://doi.org/10.1109/TASE.2025.3630482).
+- Scientific exploration: [IROS23](http://doi.org/10.1109/IROS55552.2023.10341693), [RAM24](http://doi.org/10.1109/MRA.2023.3336472), [ICRA24](http://doi.org/10.1109/ICRA57147.2024.10610663), and [T-ASE25](http://doi.org/10.1109/TASE.2025.3630482).
 
 Those implementations are based on a constrained kinematic control framework, used on manipulators, surgical robots, and multi-arm systems.
 - (Adaptive) constrained kinematic control: [T-RO19](http://doi.org/10.1109/TRO.2019.2920078) and [T-RO22](http://doi.org/10.1109/TRO.2022.3181047). 
