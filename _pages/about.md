@@ -21,7 +21,7 @@ I obtained a PhD (2018) in Mechanical Engineering from the [University of Tokyo]
 
 I supervise PhD candidates funded through the University of Manchester's [Dean's Doctoral Scholarship](https://www.se.manchester.ac.uk/study/postgraduate-research/fees-and-funding/search-for-funding/deans-doctoral-scholarship/) and [President's Doctoral Scholarship](https://www.se.manchester.ac.uk/study/postgraduate-research/fees-and-funding/search-for-funding/presidents-doctoral-scholarship/). This opportunity and more (when applicable) are listed on [FindAPhd](https://www.findaphd.com/phds/?Keywords=marinho).
 
-Open opportunities (if any) for Research Assistant (RA) and Research Associate (PDRA) in my group are posted on my [LinkedIn](https://www.linkedin.com/in/murilo-marques-marinho-046178252/) and [UoM jobs page](https://www.jobs.manchester.ac.uk/Home/Job).
+Open opportunities (if any) for Research Assistant (RA) and Research Associate (PDRA) in my group are posted on my [LinkedIn](https://www.linkedin.com/in/mmmarinho/) and [UoM jobs page](https://www.jobs.manchester.ac.uk/Home/Job).
 
 ### Consulting
 
